@@ -1,0 +1,8 @@
+# Python
+__pycache__/
+*.pyc
+.env
+
+# Personal application drafts stay local/private
+applications/*.md
+applications/tracker.csv

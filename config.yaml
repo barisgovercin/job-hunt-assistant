@@ -1,0 +1,34 @@
+# Job search configuration — edit freely.
+
+# Adzuna country code: gb (UK), us, de, fr, au, ca, nl, ... (add more countries later)
+country: gb
+
+# Search queries — one Adzuna search per line. Results are merged and de-duplicated.
+queries:
+  - "machine learning engineer"
+  - "ai engineer"
+  - "data scientist"
+  - "graduate machine learning"
+  - "junior data scientist"
+  - "deep learning"
+
+# Only keep postings created within this many days.
+max_days_old: 7
+
+# Results requested per query (Adzuna max 50 per page).
+results_per_query: 50
+
+# Drop a posting if its title contains any of these (case-insensitive).
+exclude_title_keywords:
+  - senior
+  - lead
+  - principal
+  - staff
+  - head of
+  - director
+  - manager
+  - clearance
+
+# Optional: if non-empty, keep a posting only if title OR description contains
+# at least one of these. Leave empty to accept everything from the queries.
+include_keywords: []
