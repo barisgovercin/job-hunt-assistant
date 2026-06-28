@@ -1,17 +1,21 @@
 """
 Application assistant (component B).
 
-Given a job description, generates a tailored cover letter, a short "why this
-role/company" answer, and CV-bullet suggestions — grounded in the candidate's
-real profile (profile.md). You review and submit manually; nothing is sent.
+For a given job description it creates a dedicated folder
+`applications/<company>-<role>/` containing everything for that application:
 
-Uses the Hugging Face Inference API with your locally stored HF token
-(run `hf auth login` once). No experience is invented.
+    job.txt          the job description you fed in
+    application.md   full draft: cover letter, why-this-role, CV bullets, fit/gaps
+    cover_letter.md  just the cover letter (plain text)
+    cover_letter.pdf ready-to-upload PDF of the cover letter
+
+All content is grounded in your real profile (profile.md) and generated with the
+Hugging Face Inference API using your local HF login (`hf auth login`). You review
+and submit manually; nothing is sent. No experience is invented.
 
 Usage:
-    python apply.py job.txt
-    python apply.py job.txt --company "Roke" --role "Graduate AI/ML Engineer"
-    pbpaste | python apply.py            # paste the JD on stdin
+    python apply.py job.txt --company "Graphcore" --role "AI Research Engineer"
+    pbpaste | python apply.py --company "X" --role "Y"
 """
 
 import argparse
@@ -27,7 +31,6 @@ ROOT = os.path.dirname(os.path.abspath(__file__))
 APP_DIR = os.path.join(ROOT, "applications")
 TRACKER = os.path.join(APP_DIR, "tracker.csv")
 
-# Tried in order until one is available on your HF inference quota.
 MODELS = [
     "meta-llama/Llama-3.1-8B-Instruct",
     "Qwen/Qwen2.5-7B-Instruct",
@@ -80,7 +83,7 @@ def read_jd(args) -> str:
 
 
 def slugify(text: str) -> str:
-    return re.sub(r"[^a-z0-9]+", "-", text.lower()).strip("-")[:50] or "application"
+    return re.sub(r"[^a-z0-9]+", "-", text.lower()).strip("-")[:60] or "application"
 
 
 def generate(profile: str, jd: str) -> str:
@@ -98,20 +101,81 @@ def generate(profile: str, jd: str) -> str:
             resp = client.chat_completion(messages=messages, max_tokens=1100,
                                           temperature=0.4)
             return resp.choices[0].message.content
-        except Exception as exc:  # noqa: BLE001 — try the next model
+        except Exception as exc:  # noqa: BLE001
             last_err = exc
             print(f"[info] {model} unavailable, trying next… ({exc})")
     sys.exit(f"All models failed. Last error: {last_err}")
 
 
-def log_tracker(company: str, role: str, path: str) -> None:
+def extract_cover_letter(markdown: str) -> str:
+    m = re.search(r"##\s*Cover letter\s*(.*?)(?=\n##\s|\Z)", markdown, re.S | re.I)
+    return (m.group(1).strip() if m else markdown).strip()
+
+
+def _ascii(text: str) -> str:
+    repl = {"’": "'", "‘": "'", "“": '"', "”": '"',
+            "–": "-", "—": "-", "…": "...", " ": " ",
+            "·": "-", "•": "-"}
+    for a, b in repl.items():
+        text = text.replace(a, b)
+    return text.encode("latin-1", "ignore").decode("latin-1")
+
+
+def load_contact() -> tuple[str, str]:
+    """Name + contact line for the PDF header, from me.yaml if present."""
+    path = os.path.join(ROOT, "me.yaml")
+    if os.path.exists(path):
+        try:
+            import yaml
+            d = yaml.safe_load(open(path, encoding="utf-8"))
+            name = f"{d.get('first_name','')} {d.get('last_name','')}".strip()
+            contact = " - ".join(x for x in [d.get("email"), d.get("phone"),
+                                             d.get("location")] if x)
+            return name or "Applicant", contact
+        except Exception:
+            pass
+    return "Applicant", ""
+
+
+def make_cover_pdf(path: str, name: str, contact: str, body: str) -> bool:
+    try:
+        from fpdf import FPDF
+    except ImportError:
+        return False
+    pdf = FPDF(format="A4")
+    pdf.set_auto_page_break(auto=True, margin=20)
+    pdf.add_page()
+    pdf.set_margins(22, 20, 22)
+    pdf.set_font("Helvetica", "B", 16)
+    pdf.cell(0, 9, _ascii(name), new_x="LMARGIN", new_y="NEXT")
+    if contact:
+        pdf.set_font("Helvetica", "", 10)
+        pdf.set_text_color(90, 90, 90)
+        pdf.cell(0, 6, _ascii(contact), new_x="LMARGIN", new_y="NEXT")
+    pdf.set_text_color(0, 0, 0)
+    pdf.ln(3)
+    pdf.set_draw_color(180, 180, 180)
+    y = pdf.get_y()
+    pdf.line(22, y, 188, y)
+    pdf.ln(6)
+    pdf.set_font("Helvetica", "", 11)
+    for para in body.split("\n\n"):
+        para = " ".join(para.split())
+        if para:
+            pdf.multi_cell(0, 6, _ascii(para))
+            pdf.ln(2.5)
+    pdf.output(path)
+    return True
+
+
+def log_tracker(company: str, role: str, folder: str) -> None:
     os.makedirs(APP_DIR, exist_ok=True)
     exists = os.path.exists(TRACKER)
     with open(TRACKER, "a", newline="", encoding="utf-8") as fh:
         w = csv.writer(fh)
         if not exists:
-            w.writerow(["date", "company", "role", "status", "draft"])
-        w.writerow([dt.date.today().isoformat(), company, role, "draft", path])
+            w.writerow(["date", "company", "role", "status", "folder"])
+        w.writerow([dt.date.today().isoformat(), company, role, "draft", folder])
 
 
 def main() -> None:
@@ -127,17 +191,33 @@ def main() -> None:
 
     print("Generating tailored application… (this can take ~10-20s)")
     output = generate(profile, jd)
+    cover = extract_cover_letter(output)
 
-    os.makedirs(APP_DIR, exist_ok=True)
-    stamp = dt.datetime.now().strftime("%Y%m%d-%H%M")
-    name = slugify(f"{args.company} {args.role}".strip()) if (args.company or args.role) else stamp
-    path = os.path.join(APP_DIR, f"{name}.md")
+    slug = slugify(f"{args.company} {args.role}".strip()) if (args.company or args.role) \
+        else dt.datetime.now().strftime("%Y%m%d-%H%M")
+    folder = os.path.join(APP_DIR, slug)
+    os.makedirs(folder, exist_ok=True)
+
+    with open(os.path.join(folder, "job.txt"), "w", encoding="utf-8") as fh:
+        fh.write(jd)
     header = f"# Application — {args.company or '?'} · {args.role or '?'}\n_{dt.date.today().isoformat()}_\n\n"
-    with open(path, "w", encoding="utf-8") as fh:
+    with open(os.path.join(folder, "application.md"), "w", encoding="utf-8") as fh:
         fh.write(header + output + "\n")
+    with open(os.path.join(folder, "cover_letter.md"), "w", encoding="utf-8") as fh:
+        fh.write(cover + "\n")
 
-    log_tracker(args.company or "?", args.role or "?", os.path.relpath(path, ROOT))
-    print(f"\nSaved draft -> {os.path.relpath(path, ROOT)}")
+    name, contact = load_contact()
+    pdf_path = os.path.join(folder, "cover_letter.pdf")
+    pdf_ok = make_cover_pdf(pdf_path, name, contact, cover)
+
+    log_tracker(args.company or "?", args.role or "?", os.path.relpath(folder, ROOT))
+
+    rel = os.path.relpath(folder, ROOT)
+    print(f"\nSaved application to {rel}/")
+    print(f"  - application.md   (full draft)")
+    print(f"  - cover_letter.md  (text)")
+    print(f"  - cover_letter.pdf {'(ready to upload)' if pdf_ok else '(skipped — run: pip install fpdf2)'}")
+    print(f"  - job.txt")
     print("Logged in applications/tracker.csv. Review, edit, and submit it yourself.")
 
 

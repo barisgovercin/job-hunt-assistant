@@ -1,2 +1,3 @@
 PyYAML
 huggingface_hub
+fpdf2
