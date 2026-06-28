@@ -162,21 +162,21 @@ def main() -> None:
                 page.goto(v["url"], timeout=45000)
                 page.wait_for_timeout(2500)
 
+                # 1) pre-fill the standard fields first (saves you time even
+                #    when we then hand the form over).
+                problems = fill_greenhouse(page, me, v.get("cover_letter", ""))
+
+                # 2) safety gate — never auto-submit if anything risky is present.
                 stop = has_stop_keyword(page, me["stop_keywords"])
                 if stop:
-                    print(f"   ⏸ stop keyword '{stop}' found — leaving for you.")
-                    v["status"] = "manual"; v["reason"] = f"contains '{stop}'"
-                    continue
-
+                    problems.append(f"screening/visa question ('{stop}')")
                 if page.locator("iframe[src*='recaptcha'], iframe[title*='recaptcha'], "
                                 ".g-recaptcha").count():
-                    print("   ⏸ CAPTCHA present — leaving for you.")
-                    v["status"] = "manual"; v["reason"] = "captcha"
-                    continue
+                    problems.append("CAPTCHA")
 
-                problems = fill_greenhouse(page, me, v.get("cover_letter", ""))
                 if problems:
-                    print("   ⏸ not safe to auto-submit: " + "; ".join(problems))
+                    print("   ⏸ pre-filled, but NOT auto-submitting — finish & submit "
+                          "yourself: " + "; ".join(problems))
                     v["status"] = "manual"; v["reason"] = "; ".join(problems)
                     continue
 
