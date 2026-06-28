@@ -3,6 +3,9 @@ __pycache__/
 *.pyc
 .env
 
-# Personal application drafts stay local/private
+# Personal application drafts + details stay local/private
 applications/*.md
 applications/tracker.csv
+me.yaml
+data/queue.json
+QUEUE.md

@@ -1,0 +1,26 @@
+# Copy this to `me.yaml` (git-ignored) and fill in your details.
+first_name: "Your"
+last_name: "Name"
+email: "you@example.com"
+phone: "+44 7000 000000"
+location: "City, United Kingdom"
+linkedin: "https://www.linkedin.com/in/your-handle"
+github: "https://github.com/your-handle"
+portfolio: "https://your-handle.github.io"
+
+# Absolute path to your CV PDF (used for the resume upload field).
+cv_path: "C:/path/to/Your_CV.pdf"
+
+# Questions/keywords that ALWAYS make the bot stop and hand the form to you.
+stop_keywords:
+  - visa
+  - sponsor
+  - sponsorship
+  - right to work
+  - work authorization
+  - work authorisation
+  - security clearance
+  - clearance
+  - salary
+  - notice period
+  - cover letter

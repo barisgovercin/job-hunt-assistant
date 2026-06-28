@@ -49,6 +49,31 @@ Drafts are written to `applications/` and logged in `applications/tracker.csv`
 (both git-ignored — they stay private). **Review and submit every application
 yourself.**
 
+## Auto-pilot (A → draft → one-tap → submit)
+
+Near-hands-off pipeline with a single safety gate. Runs locally (the browser and
+your ATS logins live on your machine).
+
+```bash
+pip install -r requirements.txt playwright
+playwright install chromium
+cp me.example.yaml me.yaml         # then edit me.yaml with your details
+
+python autopilot.py                # draft tailored applications for new jobs -> QUEUE.md
+python autopilot.py --approve-all  # the one tap: approve the batch
+python submit.py                   # submit approved, supported-ATS apps in a visible browser
+```
+
+- `autopilot.py` drafts a tailored cover letter for each new job, detects the ATS
+  (Greenhouse / Lever / Ashby), and queues it. Unsupported ATS → marked `manual`.
+- `submit.py` fills + uploads CV + submits **only** when every required field is
+  filled and no stop-keyword (visa / sponsorship / clearance / screening) is
+  present. Anything risky → it pauses and hands that one to you. You watch it all
+  in the browser.
+
+**Critical safety rule:** the bot never answers visa/sponsorship or custom
+screening questions. Those decide interviews — they stay with you.
+
 ## Why not fully automatic submission?
 
 Auto-submitting to LinkedIn/Indeed violates their terms and risks a permanent
