@@ -87,6 +87,21 @@ def fill_greenhouse(page, me, cover_letter) -> list:
         problems.append("email field not found")
     try_fill(GREENHOUSE["phone"], me["phone"])
 
+    # Custom text questions, matched by their visible label (LinkedIn/GitHub/…).
+    label_fills = {"linkedin": me.get("linkedin", ""), "github": me.get("github", ""),
+                   "website": me.get("portfolio", ""), "portfolio": me.get("portfolio", "")}
+    try:
+        for el in page.locator("input[type=text]").all():
+            lbl = (el.get_attribute("aria-label") or "").lower()
+            for key, val in label_fills.items():
+                if key in lbl and val and not (el.input_value() or "").strip():
+                    try:
+                        el.fill(val)
+                    except Exception:
+                        pass
+    except Exception:
+        pass
+
     # Resume upload
     try:
         f = page.locator(GREENHOUSE["resume"]).first
@@ -110,6 +125,8 @@ def fill_greenhouse(page, me, cover_letter) -> list:
 def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("--dry-run", action="store_true")
+    ap.add_argument("--url", help="Test a single Greenhouse form "
+                                  "(implies --dry-run, ignores the queue)")
     args = ap.parse_args()
 
     try:
@@ -121,13 +138,20 @@ def main() -> None:
     me = load(os.path.join(ROOT, "me.yaml"))
     if not os.path.exists(me["cv_path"]):
         sys.exit(f"CV not found at {me['cv_path']} — fix cv_path in me.yaml.")
-    q = load(QUEUE_JSON) if os.path.exists(QUEUE_JSON) else {}
 
-    ready = [v for v in q.values() if v["status"] == "ready" and v["ats"] == "greenhouse"]
-    if not ready:
-        print("No approved Greenhouse applications in the queue. "
-              "(Stage 2 currently supports Greenhouse; Lever/Ashby coming next.)")
-        return
+    if args.url:
+        args.dry_run = True
+        q = {}
+        ready = [{"title": "(test)", "company": "(test)", "url": args.url,
+                  "ats": "greenhouse", "cover_letter": ""}]
+    else:
+        q = load(QUEUE_JSON) if os.path.exists(QUEUE_JSON) else {}
+        ready = [v for v in q.values()
+                 if v["status"] == "ready" and v["ats"] == "greenhouse"]
+        if not ready:
+            print("No approved Greenhouse applications in the queue. "
+                  "(Stage 2 currently supports Greenhouse; Lever/Ashby coming next.)")
+            return
 
     with sync_playwright() as pw:
         browser = pw.chromium.launch(headless=False)
@@ -142,6 +166,12 @@ def main() -> None:
                 if stop:
                     print(f"   ⏸ stop keyword '{stop}' found — leaving for you.")
                     v["status"] = "manual"; v["reason"] = f"contains '{stop}'"
+                    continue
+
+                if page.locator("iframe[src*='recaptcha'], iframe[title*='recaptcha'], "
+                                ".g-recaptcha").count():
+                    print("   ⏸ CAPTCHA present — leaving for you.")
+                    v["status"] = "manual"; v["reason"] = "captcha"
                     continue
 
                 problems = fill_greenhouse(page, me, v.get("cover_letter", ""))
@@ -167,7 +197,8 @@ def main() -> None:
                 print(f"   ⏸ error: {exc}")
                 v["status"] = "manual"; v["reason"] = str(exc)[:120]
             finally:
-                save_queue(q)
+                if not args.url:
+                    save_queue(q)
 
         print("\nDone. Review any 🟠 manual ones in QUEUE.md.")
         input("Press Enter to close the browser…")
