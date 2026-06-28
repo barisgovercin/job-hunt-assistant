@@ -32,3 +32,32 @@ exclude_title_keywords:
 # Optional: if non-empty, keep a posting only if title OR description contains
 # at least one of these. Leave empty to accept everything from the queries.
 include_keywords: []
+
+# --- Direct ATS board source (companies.yaml) ---
+# Keep a board posting only if its title contains one of these.
+ats_title_keywords:
+  - machine learning
+  - " ml "
+  - "ai "
+  - deep learning
+  - data scientist
+  - research engineer
+  - research scientist
+  - applied scientist
+  - nlp
+  - computer vision
+  - mlops
+# ...and its location matches one of these (or the role is remote).
+ats_locations:
+  - united kingdom
+  - "uk"
+  - london
+  - england
+  - cambridge
+  - oxford
+  - manchester
+  - bristol
+  - edinburgh
+  - remote
+# Safety cap: max postings kept per company per run.
+ats_max_per_company: 25

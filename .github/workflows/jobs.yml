@@ -21,11 +21,14 @@ jobs:
       - name: Install dependencies
         run: pip install PyYAML
 
-      - name: Fetch jobs
+      - name: Fetch jobs (Adzuna)
         env:
           ADZUNA_APP_ID: ${{ secrets.ADZUNA_APP_ID }}
           ADZUNA_APP_KEY: ${{ secrets.ADZUNA_APP_KEY }}
         run: python fetch_jobs.py
+
+      - name: Fetch jobs (target ATS boards)
+        run: python fetch_ats.py
 
       - name: Commit digest
         run: |

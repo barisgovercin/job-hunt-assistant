@@ -127,6 +127,8 @@ def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("--approve-all", action="store_true",
                     help="Mark all pending entries as ready for submission")
+    ap.add_argument("--limit", type=int, default=8,
+                    help="Max cover letters to draft per run (controls time/credits)")
     args = ap.parse_args()
 
     q = load_queue()
@@ -146,6 +148,7 @@ def main() -> None:
         profile = fh.read()
 
     added = 0
+    drafted = 0
     for job in todays_jobs():
         jid = job["id"]
         if jid in q:
@@ -154,7 +157,10 @@ def main() -> None:
         # Only draft for auto-submittable ATS (saves time/credits); the rest are
         # left for you to apply to manually (use apply.py on demand).
         if ats != "other":
+            if drafted >= args.limit:
+                continue  # over the draft budget — pick it up on the next run
             cover = draft_cover_letter(profile, job)
+            drafted += 1
             status = "pending_approval"
         else:
             cover, status = "", "manual"

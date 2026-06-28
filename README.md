@@ -12,8 +12,13 @@ A GitHub Actions workflow runs every morning, queries the **Adzuna** job API for
 the configured country and search terms, filters and de-duplicates results, and
 commits a fresh [`JOBS.md`](JOBS.md) digest plus a full `data/jobs.csv` log.
 
+It also pulls roles **directly from target companies' Greenhouse / Lever / Ashby
+boards** (see [`companies.yaml`](companies.yaml)). These come with direct
+application-form URLs — which is what lets the auto-pilot actually submit them.
+
 Edit [`config.yaml`](config.yaml) to change country, search queries, freshness
-window, and exclude terms. Adding another country later is a one-line change.
+window, and filters; edit [`companies.yaml`](companies.yaml) to change the target
+companies. Adding another country later is a one-line change.
 
 ### Setup (one-time)
 

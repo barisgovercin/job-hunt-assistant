@@ -1,0 +1,23 @@
+# Target companies whose ATS boards are queried directly (verified live).
+# These give DIRECT application-form URLs, so the auto-pilot can submit them.
+# Edit freely — add/remove companies. Greenhouse boards are auto-submittable
+# today; Lever/Ashby get drafted + queued (manual submit until added).
+
+companies:
+  # --- Ashby ---
+  - { name: Wayve,            ats: ashby,      slug: wayve }
+  - { name: Synthesia,        ats: ashby,      slug: synthesia }
+  - { name: ElevenLabs,       ats: ashby,      slug: elevenlabs }
+  - { name: Cohere,           ats: ashby,      slug: cohere }
+  - { name: Poolside,         ats: ashby,      slug: poolside }
+  - { name: OpenAI,           ats: ashby,      slug: openai }
+  # --- Greenhouse (auto-submittable) ---
+  - { name: Graphcore,        ats: greenhouse, slug: graphcore }
+  - { name: Speechmatics,     ats: greenhouse, slug: speechmatics }
+  - { name: Isomorphic Labs,  ats: greenhouse, slug: isomorphiclabs }
+  - { name: Peak,             ats: greenhouse, slug: peak }
+  - { name: Stability AI,     ats: greenhouse, slug: stabilityai }
+  - { name: Scale AI,         ats: greenhouse, slug: scaleai }
+  - { name: Databricks,       ats: greenhouse, slug: databricks }
+  # --- Lever ---
+  - { name: Mistral AI,       ats: lever,      slug: mistral }
