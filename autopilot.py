@@ -151,7 +151,13 @@ def main() -> None:
         if jid in q:
             continue
         ats = detect_ats(job["url"])
-        cover = draft_cover_letter(profile, job)
+        # Only draft for auto-submittable ATS (saves time/credits); the rest are
+        # left for you to apply to manually (use apply.py on demand).
+        if ats != "other":
+            cover = draft_cover_letter(profile, job)
+            status = "pending_approval"
+        else:
+            cover, status = "", "manual"
         q[jid] = {
             "id": jid,
             "title": job["title"],
@@ -160,8 +166,7 @@ def main() -> None:
             "url": job["url"],
             "ats": ats,
             "cover_letter": cover,
-            # supported ATS -> wait for approval; otherwise leave to the human
-            "status": "pending_approval" if ats != "other" else "manual",
+            "status": status,
         }
         added += 1
 
