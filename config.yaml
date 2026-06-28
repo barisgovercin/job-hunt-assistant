@@ -15,6 +15,9 @@ queries:
 # Only keep postings created within this many days.
 max_days_old: 7
 
+# JOBS.md shows all jobs found within this many days (a rolling board).
+digest_days: 14
+
 # Results requested per query (Adzuna max 50 per page).
 results_per_query: 50
 

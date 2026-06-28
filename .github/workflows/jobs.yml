@@ -30,6 +30,9 @@ jobs:
       - name: Fetch jobs (target ATS boards)
         run: python fetch_ats.py
 
+      - name: Render board (JOBS.md)
+        run: python render_digest.py
+
       - name: Commit digest
         run: |
           git config user.name "github-actions[bot]"
