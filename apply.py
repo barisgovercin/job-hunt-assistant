@@ -79,7 +79,43 @@ def read_jd(args) -> str:
             return fh.read().strip()
     if not sys.stdin.isatty():
         return sys.stdin.read().strip()
-    sys.exit("Provide a job description: `python apply.py job.txt` or pipe it on stdin.")
+    sys.exit("Provide a job: `--url <link>`, `python apply.py job.txt`, or pipe it on stdin.")
+
+
+def fetch_jd(url: str) -> str:
+    """Fetch the job description straight from a posting URL (no copy-paste)."""
+    import json
+    import urllib.request
+    import html as _html
+
+    def strip(h):
+        h = re.sub(r"(?is)<(script|style|noscript)[^>]*>.*?</\1>", " ", h)
+        return re.sub(r"\s+", " ", re.sub("<[^>]+>", " ", _html.unescape(h))).strip()
+
+    try:
+        m = re.search(r"greenhouse\.io/([^/?#]+)/jobs/(\d+)", url)
+        if m:
+            d = json.loads(urllib.request.urlopen(
+                f"https://boards-api.greenhouse.io/v1/boards/{m.group(1)}/jobs/{m.group(2)}",
+                timeout=30).read())
+            return f"Role: {d.get('title','')}\n\n{strip(d.get('content',''))[:2800]}"
+        m = re.search(r"lever\.co/([^/?#]+)/([0-9a-fA-F-]+)", url)
+        if m:
+            d = json.loads(urllib.request.urlopen(
+                f"https://api.lever.co/v0/postings/{m.group(1)}/{m.group(2)}",
+                timeout=30).read())
+            return f"Role: {d.get('text','')}\n\n{strip(d.get('description',''))[:2800]}"
+        req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+        page = urllib.request.urlopen(req, timeout=30).read().decode("utf-8", "ignore")
+        text = strip(page)
+        if len(text) < 120:
+            sys.exit("Couldn't read a description from that page. Save it to a .txt instead.")
+        return text[:2800]
+    except SystemExit:
+        raise
+    except Exception as exc:  # noqa: BLE001
+        sys.exit(f"Could not fetch the job page ({exc}). "
+                 "Save the description to a .txt and pass that instead.")
 
 
 def slugify(text: str) -> str:
@@ -181,11 +217,12 @@ def log_tracker(company: str, role: str, folder: str) -> None:
 def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("jd", nargs="?", help="Path to a text file with the job description")
+    ap.add_argument("--url", default="", help="Job posting URL — fetches the description for you")
     ap.add_argument("--company", default="")
     ap.add_argument("--role", default="")
     args = ap.parse_args()
 
-    jd = read_jd(args)
+    jd = fetch_jd(args.url) if args.url else read_jd(args)
     with open(os.path.join(ROOT, "profile.md"), encoding="utf-8") as fh:
         profile = fh.read()
 
