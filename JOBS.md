@@ -1,11 +1,85 @@
 # 🎯 Job board
 
-_219 open role(s) from the last 14 days · 219 tracked in total · updated 2026-06-28._
+_291 open role(s) from the last 14 days · 291 tracked in total · updated 2026-06-29._
 
 > Auto-generated from the Adzuna API and target ATS boards. Full history in [`data/jobs.csv`](data/jobs.csv). Review and apply manually.
 
 
-### 2026-06-28 (today)
+### 2026-06-29 (today)
+- [.NET Developer](https://www.adzuna.co.uk/jobs/land/ad/5780992806?se=NGjZj7Fz8RGRO5SDpM7Q1Q&utm_medium=api&utm_source=bce444a8&v=CB812CDE2EEEA591DC9E8EF06626F2578740F7EE) — Noir · Manchester, Greater Manchester · £40,000–£50,000
+- [.NET Developer](https://www.adzuna.co.uk/jobs/land/ad/5780992757?se=NGjZj7Fz8RGRO5SDpM7Q1Q&utm_medium=api&utm_source=bce444a8&v=3AB5804554C0C5C42833FA0DC70963A1E0E1C2D3) — Noir · Bradford, West Yorkshire · £65,000–£85,000
+- [.NET Developer](https://www.adzuna.co.uk/jobs/land/ad/5780992758?se=NGjZj7Fz8RGRO5SDpM7Q1Q&utm_medium=api&utm_source=bce444a8&v=C9E3B3B87DDCB8DDB60A83EB2F889EEB1C884393) — Noir · Hatfield, Hertfordshire · £45,000–£65,000
+- [.NET Developer](https://www.adzuna.co.uk/jobs/land/ad/5780992681?se=NGjZj7Fz8RGRO5SDpM7Q1Q&utm_medium=api&utm_source=bce444a8&v=E93E34E0CF064169910E648F960B91E67E6480A5) — Noir · Chelmsford, Essex · £50,000–£70,000
+- [.NET Developer](https://www.adzuna.co.uk/jobs/land/ad/5780992677?se=NGjZj7Fz8RGRO5SDpM7Q1Q&utm_medium=api&utm_source=bce444a8&v=6ED83870704599430B38709F341799B97946DE7A) — Noir · Woking, Surrey · £65,000–£85,000
+- [.NET Developer - Hemel Hempstead](https://www.adzuna.co.uk/jobs/land/ad/5780992600?se=NGjZj7Fz8RGRO5SDpM7Q1Q&utm_medium=api&utm_source=bce444a8&v=246354E3D85FD2DA1E44A0CC0374E37EBE7E7143) — Noir · Hemel Hempstead, Hertfordshire · £40,000–£65,000
+- [.NET Developer - Warwick](https://www.adzuna.co.uk/jobs/land/ad/5780992564?se=NGjZj7Fz8RGRO5SDpM7Q1Q&utm_medium=api&utm_source=bce444a8&v=51474EAD1E5F2022E6978268D6B32843C5C4F558) — Noir · Leamington Spa, Warwickshire · £55,000–£65,000
+- [.NET Developer](https://www.adzuna.co.uk/jobs/land/ad/5780992548?se=NGjZj7Fz8RGRO5SDpM7Q1Q&utm_medium=api&utm_source=bce444a8&v=91AA4A677D279E68A9B863B984FE6EB1CCA8474B) — Noir · Worthing, West Sussex · £65,000–£85,000
+- [Junior .NET Developer](https://www.adzuna.co.uk/jobs/land/ad/5780992520?se=NGjZj7Fz8RGRO5SDpM7Q1Q&utm_medium=api&utm_source=bce444a8&v=1D1F019577878FD4502E115A5DA1CF5FB14709E3) — Noir · London, UK · £25,000–£35,000
+- [.NET Developer](https://www.adzuna.co.uk/jobs/land/ad/5780992342?se=NGjZj7Fz8RGRO5SDpM7Q1Q&utm_medium=api&utm_source=bce444a8&v=A81F0AC5244CC1BCEF6EE1CD907DF98DAFC800A9) — Noir · Sheffield, South Yorkshire · £45,000–£65,000
+- [.NET Developer](https://www.adzuna.co.uk/jobs/land/ad/5780992323?se=NGjZj7Fz8RGRO5SDpM7Q1Q&utm_medium=api&utm_source=bce444a8&v=1210D1DD3F6DB098FE746432723F65B59A492C2F) — Noir · Basingstoke, Hampshire · £50,000–£70,000
+- [.NET Developer](https://www.adzuna.co.uk/jobs/land/ad/5780992154?se=NGjZj7Fz8RGRO5SDpM7Q1Q&utm_medium=api&utm_source=bce444a8&v=DCCCD975469E3B04B3B3BA8FD7F294545F6B1FB7) — Noir · Glasgow City Centre, Glasgow · £45,000–£65,000
+- [.NET Developer](https://www.adzuna.co.uk/jobs/land/ad/5780992147?se=NGjZj7Fz8RGRO5SDpM7Q1Q&utm_medium=api&utm_source=bce444a8&v=4006C515AA19426ED6347829C568D3F0749599EC) — Noir · Swansea, Wales · £50,000–£70,000
+- [.NET Developer](https://www.adzuna.co.uk/jobs/land/ad/5780992090?se=NGjZj7Fz8RGRO5SDpM7Q1Q&utm_medium=api&utm_source=bce444a8&v=DFA9CB0EEC2524B1B445871488039C914A8498D5) — Noir · Manchester, Greater Manchester · £40,000–£60,000
+- [Platform Engineer (DevOps)](https://www.adzuna.co.uk/jobs/details/5780985559?utm_medium=api&utm_source=bce444a8) — Anson McCade · Aston Cross, Tewkesbury · £30,000–£60,000
+- [Agentic AI Engineer (.NET) - Contract](https://www.adzuna.co.uk/jobs/details/5780985560?utm_medium=api&utm_source=bce444a8) — Sanderson Recruitment · Tyndalls Park, Bristol · £125,000–£125,000
+- [Embedded Software Engineer](https://www.adzuna.co.uk/jobs/details/5780985457?utm_medium=api&utm_source=bce444a8) — OnlyCat · Newsham, Blyth · £33,000–£60,000
+- [Algorithm Developer (Weapon Systems)](https://www.adzuna.co.uk/jobs/land/ad/5781091510?se=DIdukLFz8RG5B_ZD6wKS8Q&utm_medium=api&utm_source=bce444a8&v=8085EA8BB8F338B49BC962DCE14B494F229801D9) — MBDA UK · Bristol, South West England · £55,000–£55,000
+- [Data Scientist / Statistician](https://www.adzuna.co.uk/jobs/details/5780985274?utm_medium=api&utm_source=bce444a8) — Capital One UK · Sneinton, Nottingham · £62,000–£102,000
+- [GI Europe New Business Sales Specialist - Financials](https://www.adzuna.co.uk/jobs/details/5780663722?utm_medium=api&utm_source=bce444a8) — S&P Global · London, UK · £57,286–£57,286
+- [Researcher, Trustworthy AI](https://jobs.ashbyhq.com/openai/71acba5c-dbae-406f-b983-f40943c43068) — OpenAI · San Francisco
+- [Data Scientist, GTM Growth Products](https://jobs.ashbyhq.com/openai/7f299784-2c75-4d73-99e5-1e5043ec7b48) — OpenAI · San Francisco
+- [AI Deployment Engineer](https://jobs.ashbyhq.com/openai/83730f3e-3a96-476e-afb0-15f1f045ab03) — OpenAI · Sydney, Australia
+- [Partner AI Deployment Engineer - AWS](https://jobs.ashbyhq.com/openai/87989505-81e5-4513-bba0-5f00bb064216) — OpenAI · India - Remote
+- [Manufacturing Test Engineer, AI Compute Infrastructure - Stargate](https://jobs.ashbyhq.com/openai/8a950265-0527-48f8-be3c-2923d7d96940) — OpenAI · Remote - US
+- [Data Scientist, Safety](https://jobs.ashbyhq.com/openai/90c711dc-5f50-46e3-a5ab-82359a56d683) — OpenAI · San Francisco
+- [AI Success Engineer - Seoul, South Korea](https://jobs.ashbyhq.com/openai/93d74d54-52af-418b-9929-14dd41fd72d4) — OpenAI · Seoul, South Korea
+- [AI Deployment Engineer - Startups](https://jobs.ashbyhq.com/openai/980bc2ea-2c35-4546-bb48-5496a4e6847f) — OpenAI · London, UK
+- [Full Stack Software Engineer, OpenAI Edu](https://jobs.ashbyhq.com/openai/9b1b62f5-1400-4672-910a-fda6f975f642) — OpenAI · San Francisco
+- [Researcher, Agent Post-Training, API & Power-Users](https://jobs.ashbyhq.com/openai/a68045e3-1fa1-4dd1-8ef4-e87fac2416eb) — OpenAI · San Francisco
+- [Data Scientist, Integrity Measurement](https://jobs.ashbyhq.com/openai/a7a326e7-6718-42ab-a4d8-b16d5021c99b) — OpenAI · London, UK
+- [Counsel, AI Policy](https://jobs.ashbyhq.com/openai/aa06845f-df12-41e5-8fe8-dbb1f7cb01be) — OpenAI · San Francisco
+- [AI Deployment Engineer, Cyber](https://jobs.ashbyhq.com/openai/b46ffd99-f9f2-440c-ac13-448eb7911ad6) — OpenAI · San Francisco
+- [AI Support Engineer, Government - Washington, D.C.](https://jobs.ashbyhq.com/openai/b505a83d-68c1-46cc-a754-5deacb3c6e3c) — OpenAI · Washington, DC
+- [AI Deployment Engineer, Startups](https://jobs.ashbyhq.com/openai/b76848b3-d545-40cc-b8b4-585501f09760) — OpenAI · Stockholm, Sweden
+- [ AI Deployment Engineer, Large Enterprise](https://jobs.ashbyhq.com/openai/b904267b-6320-4469-93ce-e74da6586e6a) — OpenAI · London, UK
+- [Software Engineer, AI Safety](https://jobs.ashbyhq.com/openai/b9dee2a0-9bb3-447e-9bce-2b1bed784e5b) — OpenAI · San Francisco
+- [Data Scientist, Integrity Measurement](https://jobs.ashbyhq.com/openai/be4e1098-f7ac-46f4-babe-44ef08f47fcb) — OpenAI · San Francisco
+- [AI Deployment Engineer, Public Sector - Federal Civilian](https://jobs.ashbyhq.com/openai/be7b1bf5-37ab-40f7-9ec1-e9732244f12a) — OpenAI · Washington, DC
+- [People Research Data Scientist, AI Fairness & Bias](https://jobs.ashbyhq.com/openai/cadb7c24-2aea-4b98-a793-65ae9388b5d6) — OpenAI · San Francisco
+- [AI Support Engineer - Singapore](https://jobs.ashbyhq.com/openai/d1b2eec3-bd8b-49db-aee4-e42fd7e029eb) — OpenAI · Singapore
+- [AI Success Engineer - NYC](https://jobs.ashbyhq.com/openai/d4548828-191b-4cbf-9fd4-058d16416e49) — OpenAI · New York City
+- [Application Engineer, Supply Chain Technology](https://jobs.ashbyhq.com/openai/dc70e8e8-0f0c-400b-a731-0756c9fdfec1) — OpenAI · San Francisco
+- [AI Success Engineer, Government ](https://jobs.ashbyhq.com/openai/dde7aafb-fa52-4b14-b94f-1aa331b32fa6) — OpenAI · Washington, DC
+- [Security Researcher, Agentic AI Threats](https://jobs.ashbyhq.com/openai/e0eef869-cd4d-4737-b7af-75c5a1970aeb) — OpenAI · San Francisco
+- [Data Scientist](https://www.adzuna.co.uk/jobs/details/5780602629?utm_medium=api&utm_source=bce444a8) — Lloyds Banking Group · Edinburgh, Scotland · £53,513–£53,513
+- [Cloud Security Engineer](https://www.adzuna.co.uk/jobs/details/5780350681?utm_medium=api&utm_source=bce444a8) — Fin · London, UK · £59,593–£59,593
+- [AI Data Engineer](https://www.adzuna.co.uk/jobs/land/ad/5780350368?se=NGjZj7Fz8RGRO5SDpM7Q1Q&utm_medium=api&utm_source=bce444a8&v=790C42EC7AD3C958E07743D7D59C73D81989D841) — Barclays · UK · £49,828–£49,828
+- [Account Executive, Mid-Market](https://www.adzuna.co.uk/jobs/details/5780350247?utm_medium=api&utm_source=bce444a8) — Flow Engineering · London, UK · £57,089–£57,089
+- [Child & Community Impact Narrative & Data Specialist](https://www.adzuna.co.uk/jobs/details/5780349985?utm_medium=api&utm_source=bce444a8) — WVI · UK · £81,363–£81,363
+- [AI Engineer](https://www.adzuna.co.uk/jobs/details/5780349756?utm_medium=api&utm_source=bce444a8) — RELX · London, UK · £59,166–£59,166
+- [Software Engineer - C++](https://www.adzuna.co.uk/jobs/details/5780349354?utm_medium=api&utm_source=bce444a8) — Talent Locker · Whiteley, Fareham · £50,115–£50,115
+- [Forward Deployed Engineer - Defence](https://www.adzuna.co.uk/jobs/details/5780349027?utm_medium=api&utm_source=bce444a8) — C3 Ai · London, UK · £67,656–£67,656
+- [Pricing Strategy & Operations](https://www.adzuna.co.uk/jobs/details/5780348561?utm_medium=api&utm_source=bce444a8) — Sierra · London, UK · £135,000–£185,000
+- [Biology Teacher](https://www.adzuna.co.uk/jobs/land/ad/5780379461?se=DIdukLFz8RG5B_ZD6wKS8Q&utm_medium=api&utm_source=bce444a8&v=F0762C3F7E978E3D507047FB9FDA972E7C2B1A02) — Philosophy Education Ltd · Dagenham, Essex · £45,000–£75,000
+- [Sustainability Intern](https://www.adzuna.co.uk/jobs/details/5780350335?utm_medium=api&utm_source=bce444a8) — Wasserman · UK · £31,725–£31,725
+- [R&D Data Architect](https://www.adzuna.co.uk/jobs/details/5780349901?utm_medium=api&utm_source=bce444a8) — CSL Plasma · Maidenhead, Windsor & Maidenhead · £47,240–£47,240
+- [Statistical Programmer](https://www.adzuna.co.uk/jobs/land/ad/5780349844?se=DIdukLFz8RG5B_ZD6wKS8Q&utm_medium=api&utm_source=bce444a8&v=8C8E9B2DF21ADFE0FC9F50E26FC2D991F2282839) — IQVIA · Reading, Berkshire · £42,570–£42,570
+- [Software Engineer](https://www.adzuna.co.uk/jobs/land/ad/5780349799?se=DIdukLFz8RG5B_ZD6wKS8Q&utm_medium=api&utm_source=bce444a8&v=88CF2E36CBF8A310A0389366F48E58C17AE2CEB4) — Cisco International Limited · London, UK · £48,273–£48,273
+- [Clinical Research Physician](https://www.adzuna.co.uk/jobs/details/5780349648?utm_medium=api&utm_source=bce444a8) — Quotient Sciences · Nottingham, Nottinghamshire · £50,705–£50,705
+- [1011-384 Marine Habitats Ecologist & Surveyor - D Grade - July 2026](https://www.adzuna.co.uk/jobs/details/5780349423?utm_medium=api&utm_source=bce444a8) — NatureScot · Leachkin, Inverness · £74,692–£74,692
+- [Product Support Technician](https://www.adzuna.co.uk/jobs/details/5780349177?utm_medium=api&utm_source=bce444a8) — Catapult Sports · Leeds, West Yorkshire · £35,269–£35,269
+- [Data Analyst](https://www.adzuna.co.uk/jobs/details/5780349147?utm_medium=api&utm_source=bce444a8) — Everything Managed Group · Shieldfield, Newcastle Upon Tyne · £46,093–£46,093
+- [Applied AI Architect, Partnerships](https://www.adzuna.co.uk/jobs/details/5780349085?utm_medium=api&utm_source=bce444a8) — Anthropic · London, UK · £165,000–£190,000
+- [Talent Acquisition Partner - Sourcing & Assessment](https://www.adzuna.co.uk/jobs/details/5780348944?utm_medium=api&utm_source=bce444a8) — DIGI2AL · Strand, Central London · £52,316–£52,316
+- [Experienced I Stat Programmer](https://www.adzuna.co.uk/jobs/details/5780348802?utm_medium=api&utm_source=bce444a8) — Johnson & Johnson · High Wycombe, Buckinghamshire · £47,776–£47,776
+- [ICOA Advanced Insights](https://www.adzuna.co.uk/jobs/land/ad/5780348704?se=DIdukLFz8RG5B_ZD6wKS8Q&utm_medium=api&utm_source=bce444a8&v=93AA2116E5F33B6B38AECCD7E08A8362B6F67D69) — IQVIA · London, UK · £57,598–£57,598
+- [General Application — Talent Pool](https://www.adzuna.co.uk/jobs/details/5780348267?utm_medium=api&utm_source=bce444a8) — Eleven Therapeutics · Trumpington, Cambridge · £33,376–£33,376
+- [Experienced I Clin Programmer](https://www.adzuna.co.uk/jobs/details/5780348251?utm_medium=api&utm_source=bce444a8) — Johnson & Johnson · High Wycombe, Buckinghamshire · £57,707–£57,707
+- [Business Development Sales Representative (f/m/d)](https://www.adzuna.co.uk/jobs/details/5780348212?utm_medium=api&utm_source=bce444a8) — Ecolab · UK · £37,791–£37,791
+- [Applied Scientist II, Strategic Account Services (SAS)](https://www.adzuna.co.uk/jobs/details/5780350131?utm_medium=api&utm_source=bce444a8) — Amazon · London, UK · £63,743–£63,743
+- [Graduate AI Machine Learning Engineer](https://www.adzuna.co.uk/jobs/details/5776022886?utm_medium=api&utm_source=bce444a8) — Tech Recruitment UK Ltd · Liverpool Street, Central London · £39,000–£40,000
+
+### 2026-06-28
 - [Machine Learning Systems Engineer](https://www.adzuna.co.uk/jobs/details/5779880661?utm_medium=api&utm_source=bce444a8) — Tether Operations Limited · UK · £71,425–£71,425
 - [Research Engineer, AI Systems / LLM Agents](https://www.adzuna.co.uk/jobs/details/5779623709?utm_medium=api&utm_source=bce444a8) — Career Moves Group · London, UK · £93,600–£93,600
 - [AI Engineer - Automation](https://www.adzuna.co.uk/jobs/details/5779992260?utm_medium=api&utm_source=bce444a8) — Oscar Associates  Limited · Leeds, West Yorkshire · £50,000–£50,000
