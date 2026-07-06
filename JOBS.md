@@ -1,11 +1,70 @@
 # 🎯 Job board
 
-_831 open role(s) from the last 14 days · 831 tracked in total · updated 2026-07-05._
+_888 open role(s) from the last 14 days · 888 tracked in total · updated 2026-07-06._
 
 > Auto-generated from the Adzuna API and target ATS boards. Full history in [`data/jobs.csv`](data/jobs.csv). Review and apply manually.
 
 
-### 2026-07-05 (today)
+### 2026-07-06 (today)
+- [Applied Scientist](https://www.adzuna.co.uk/jobs/land/ad/5789831292?se=wu7QUi158RGkZupZrIVo-Q&utm_medium=api&utm_source=bce444a8&v=6691D8AA464C63859E797B53EEFED5738E4BEB8F) — ASOS · London, UK · £46,789–£46,789
+- [Machine Learning Engineer](https://www.adzuna.co.uk/jobs/land/ad/5789831282?se=wu7QUi158RGkZupZrIVo-Q&utm_medium=api&utm_source=bce444a8&v=86A7E9B7E9D2C96B266E5D7254BD894B7D28B082) — ASOS · London, UK · £55,207–£55,207
+- [Trainee AI Engineer](https://www.adzuna.co.uk/jobs/land/ad/5789852421?se=nkVrUy158RGkZupZrIVo-Q&utm_medium=api&utm_source=bce444a8&v=60799B0CDB8492C6FFD559BF4E8FB9A39B7011C8) — ITOL Recruit · Mansfield, Nottinghamshire · £30,000–£45,000
+- [AI Software Engineer - eDV Cleared](https://www.adzuna.co.uk/jobs/land/ad/5789852356?se=nkVrUy158RGkZupZrIVo-Q&utm_medium=api&utm_source=bce444a8&v=9EF89F8C0453A02459047134C4426395737FAE18) — Searchability NS&D · London, UK · £65,000–£100,000
+- [Trainee AI Engineer](https://www.adzuna.co.uk/jobs/land/ad/5789851698?se=nkVrUy158RGkZupZrIVo-Q&utm_medium=api&utm_source=bce444a8&v=ED9D1922F9973FE7CCCE59D8AADE5149604680A9) — ITOL Recruit · Walsall, West Midlands · £30,000–£45,000
+- [Junior AI Developer](https://www.adzuna.co.uk/jobs/land/ad/5789851637?se=nkVrUy158RGkZupZrIVo-Q&utm_medium=api&utm_source=bce444a8&v=BAEB2DA80E7001B69FD83F2AAB9617B56F3795A5) — ITOL Recruit · Stoke-On-Trent, Staffordshire · £30,000–£45,000
+- [Trainee AI Engineer](https://www.adzuna.co.uk/jobs/land/ad/5789851508?se=nkVrUy158RGkZupZrIVo-Q&utm_medium=api&utm_source=bce444a8&v=E5E952933AB7701B81603DBF69DE0804018585FD) — ITOL Recruit · Warrington, Cheshire · £30,000–£45,000
+- [DevOps Engineer](https://www.adzuna.co.uk/jobs/land/ad/5789851249?se=nkVrUy158RGkZupZrIVo-Q&utm_medium=api&utm_source=bce444a8&v=2F74B403512E0ED0AED3773D9E220AA09093AAF7) — Sanderson · Bristol, South West England · £60,000–£70,000
+- [Trainee AI Engineer](https://www.adzuna.co.uk/jobs/land/ad/5789850904?se=nkVrUy158RGkZupZrIVo-Q&utm_medium=api&utm_source=bce444a8&v=774D916039547145FC30D0FDFE519DC915348B92) — ITOL Recruit · Kingston Upon Thames, South West London · £30,000–£45,000
+- [Software Engineer, AI SDK](https://www.adzuna.co.uk/jobs/land/ad/5789831328?se=nkVrUy158RGkZupZrIVo-Q&utm_medium=api&utm_source=bce444a8&v=7C4FE840133764C62B1C80D623AEC529A273C627) — Vercel · London, UK · £60,426–£60,426
+- [Technical Architect (Ruby On Rails, AWS)](https://www.adzuna.co.uk/jobs/land/ad/5789831326?se=nkVrUy158RGkZupZrIVo-Q&utm_medium=api&utm_source=bce444a8&v=0B31CBE9F3C0ECDCF83412F9F36111A226B059AA) — SAGE GROUP PLC · Newcastle Upon Tyne, Tyne & Wear · £82,593–£82,593
+- [Forward-Deployed Engineer](https://www.adzuna.co.uk/jobs/land/ad/5789831208?se=nkVrUy158RGkZupZrIVo-Q&utm_medium=api&utm_source=bce444a8&v=5B87F6F9CA0234DAC8FBFDE797D307E77F6B13D4) — Vercel · London, UK · £77,282–£77,282
+- [Agentic AI Developer](https://www.adzuna.co.uk/jobs/details/5789811666?utm_medium=api&utm_source=bce444a8) — Henderson Scott · Holland Park, West London · £43,500–£74,500
+- [Full-Stack Developer - Southampton](https://www.adzuna.co.uk/jobs/details/5789811492?utm_medium=api&utm_source=bce444a8) — Spectrum It Recruitment Limited · Ocean Village, Southampton · £60,000–£60,000
+- [COBOL Mainframe Developer - Remote](https://www.adzuna.co.uk/jobs/details/5789496047?utm_medium=api&utm_source=bce444a8) — YO HR Consultancy · UK · £270,400–£457,600
+- [Technical Architect (Ruby On Rails, AWS)](https://www.adzuna.co.uk/jobs/details/5789481140?utm_medium=api&utm_source=bce444a8) — Sage · Newcastle Upon Tyne, Tyne & Wear · £88,921–£88,921
+- [Associate AI Platform Engineer](https://www.adzuna.co.uk/jobs/details/5789480418?utm_medium=api&utm_source=bce444a8) — Lightsource bp · London, UK · £50,703–£50,703
+- [AI Architect, Partner Engineering](https://www.adzuna.co.uk/jobs/details/5789480020?utm_medium=api&utm_source=bce444a8) — Google · London, UK · £92,118–£92,118
+- [Coding and Programming Trainee](https://www.adzuna.co.uk/jobs/land/ad/5789852854?se=bn74Uy158RGv6I1d9w2voQ&utm_medium=api&utm_source=bce444a8&v=E1291C2505AA6A6298EE2829089656BF40222AAD) — ITOL Recruit · Leicester, Leicestershire · £27,000–£35,000
+- [Trainee Software Developer](https://www.adzuna.co.uk/jobs/land/ad/5789852504?se=bn74Uy158RGv6I1d9w2voQ&utm_medium=api&utm_source=bce444a8&v=802BB77AE7318C96ACFEAC34A4552F52FB690E82) — ITOL Recruit · Manchester, Greater Manchester · £30,000–£45,000
+- [Coding and Programming Trainee](https://www.adzuna.co.uk/jobs/land/ad/5789852422?se=bn74Uy158RGv6I1d9w2voQ&utm_medium=api&utm_source=bce444a8&v=1EB24252DDCD7A57BD42C36D56A7F691832126D6) — ITOL Recruit · Nottingham, Nottinghamshire · £27,000–£35,000
+- [Trainee Software Developer](https://www.adzuna.co.uk/jobs/land/ad/5789852202?se=bn74Uy158RGv6I1d9w2voQ&utm_medium=api&utm_source=bce444a8&v=85C63B911B9AE93DC3D45C22B939AFD3CF9CF2B0) — ITOL Recruit · Croydon, London · £30,000–£45,000
+- [Trainee Software Developer](https://www.adzuna.co.uk/jobs/land/ad/5789851714?se=bn74Uy158RGv6I1d9w2voQ&utm_medium=api&utm_source=bce444a8&v=D05224CBFD4A1B339782EC5D99E7B8FF2B2F89D9) — ITOL Recruit · Cardiff County, Wales · £30,000–£45,000
+- [Trainee Software Developer](https://www.adzuna.co.uk/jobs/land/ad/5789851712?se=bn74Uy158RGv6I1d9w2voQ&utm_medium=api&utm_source=bce444a8&v=4F2BE017C25C9911CD34BB89CF55A82210921E08) — ITOL Recruit · Glasgow City Centre, Glasgow · £30,000–£45,000
+- [Coding and Programming Trainee](https://www.adzuna.co.uk/jobs/land/ad/5789851676?se=bn74Uy158RGv6I1d9w2voQ&utm_medium=api&utm_source=bce444a8&v=64142A8EE75329D8232612CD63C8383715D365DA) — ITOL Recruit · Hull, East Riding Of Yorkshire · £27,000–£35,000
+- [Coding and Programming Trainee](https://www.adzuna.co.uk/jobs/land/ad/5789851531?se=bn74Uy158RGv6I1d9w2voQ&utm_medium=api&utm_source=bce444a8&v=F021A5E39BF2D81CBFEF6A558E79FC1C1FD98233) — ITOL Recruit · Exeter, Devon · £28,000–£35,000
+- [Coding and Programming Trainee](https://www.adzuna.co.uk/jobs/land/ad/5789851511?se=bn74Uy158RGv6I1d9w2voQ&utm_medium=api&utm_source=bce444a8&v=488E928E23CEBCB65AAA5E90491742C90F94BBC5) — ITOL Recruit · Reading, Berkshire · £27,000–£35,000
+- [Software Developer Trainee](https://www.adzuna.co.uk/jobs/land/ad/5789851394?se=bn74Uy158RGv6I1d9w2voQ&utm_medium=api&utm_source=bce444a8&v=BFE5802F5647ED8DEE0F529AAE31586CF1101B82) — ITOL Recruit · Bromley, South East London · £28,000–£35,000
+- [Data Scientist / Statistician](https://www.adzuna.co.uk/jobs/details/5789811068?utm_medium=api&utm_source=bce444a8) — Capital One UK · Sneinton, Nottingham · £62,000–£102,000
+- [Medical Science Liaison](https://www.adzuna.co.uk/jobs/details/5789481122?utm_medium=api&utm_source=bce444a8) — Sanofi Group · Reading, Berkshire · £33,280–£33,280
+- [Wrap Around Teaching Assistant (Streethay Primary School)](https://www.adzuna.co.uk/jobs/details/5789531110?utm_medium=api&utm_source=bce444a8) — Shaw Education Trust · Lichfield, Staffordshire · £25,186–£25,186
+- [Research Scientist, Gemini Diffusion, DeepMind](https://www.adzuna.co.uk/jobs/details/5789480015?utm_medium=api&utm_source=bce444a8) — Google · London, UK · £50,922–£50,922
+- [Research Engineer, Frontier Safety Risk Assessment, DeepMind](https://www.adzuna.co.uk/jobs/details/5789480008?utm_medium=api&utm_source=bce444a8) — Google · London, UK · £60,312–£60,312
+- [Machine Learning Engineer](https://www.adzuna.co.uk/jobs/land/ad/5789179863?se=wu7QUi158RGkZupZrIVo-Q&utm_medium=api&utm_source=bce444a8&v=D69A0C4CFE5B1B65B38C5DC5FDF5FB0DE3E4BE03) — Barclays · Glasgow, Scotland · £65,062–£65,062
+- [CTO (Chief Technology Officer) - Remote](https://www.adzuna.co.uk/jobs/land/ad/5789298167?se=nkVrUy158RGkZupZrIVo-Q&utm_medium=api&utm_source=bce444a8&v=EBDB4C6BC606247287A6C6418532EF422F77A970) — Smile Digital · Farringdon, Central London · £80,000–£90,000
+- [Gen AI Platform Engineer (Azure & Terraform)](https://www.adzuna.co.uk/jobs/land/ad/5789235925?se=nkVrUy158RGkZupZrIVo-Q&utm_medium=api&utm_source=bce444a8&v=28B816FB6959A21CD7258D52CEABD00831281DF0) — Optimus E2E · London, UK · £57,140–£57,140
+- [AI Engineer](https://www.adzuna.co.uk/jobs/details/5789182707?utm_medium=api&utm_source=bce444a8) — Reward Gateway · London, UK · £80,000–£90,000
+- [AI Engineer (Amazon Bedrock)](https://www.adzuna.co.uk/jobs/details/5789182429?utm_medium=api&utm_source=bce444a8) — CreateFuture · London, UK · £73,161–£73,161
+- [Public Cloud - Google Cloud Engineer](https://www.adzuna.co.uk/jobs/land/ad/5789181226?se=nkVrUy158RGkZupZrIVo-Q&utm_medium=api&utm_source=bce444a8&v=903846D18B8260B2984BD230BF974360CCDDF531) — Lloyds Bank · UK · £72,702–£80,780
+- [Partner Forward Deployed Engineer III, Generative AI (French, German)](https://www.adzuna.co.uk/jobs/land/ad/5789180978?se=nkVrUy158RGkZupZrIVo-Q&utm_medium=api&utm_source=bce444a8&v=742A104CDE99FC71DBE7579913F9D0DDE45EC902) — Google · London, UK · £84,669–£84,669
+- [Software Engineer, Platform - Durham, NC, USA](https://www.adzuna.co.uk/jobs/details/5789180443?utm_medium=api&utm_source=bce444a8) — Speechify · UK · £74,197–£74,197
+- [STA | AI Systems Technology Architect | London](https://www.adzuna.co.uk/jobs/details/5789180215?utm_medium=api&utm_source=bce444a8) — Infosys · London, UK · £57,944–£57,944
+- [Business Analyst](https://www.adzuna.co.uk/jobs/land/ad/5789298153?se=bn74Uy158RGv6I1d9w2voQ&utm_medium=api&utm_source=bce444a8&v=78B7D0FA16DCFD844220BCF87845AD6328726630) — Copello · Arlingham, Gloucester · £58,304–£58,304
+- [Data Scientist](https://www.adzuna.co.uk/jobs/details/5789182808?utm_medium=api&utm_source=bce444a8) — Jupiter Asset Management · London, UK · £49,641–£49,641
+- [Software Engineer - Backend (Java)](https://www.adzuna.co.uk/jobs/details/5789182515?utm_medium=api&utm_source=bce444a8) — Rightmove Careers · London, UK · £56,385–£56,385
+- [Intelligence Analyst - KTP Associate](https://www.adzuna.co.uk/jobs/details/5789182461?utm_medium=api&utm_source=bce444a8) — University of Northumbria · UK · £35,000–£38,000
+- [Applied Biodiversity Scientist](https://www.adzuna.co.uk/jobs/details/5789182397?utm_medium=api&utm_source=bce444a8) — UK Centre for Ecology and Hydrology · Wallingford, Oxfordshire · £40,574–£43,056
+- [Snr Data Scientist, Computational Genomics/DNA Modelling](https://www.adzuna.co.uk/jobs/details/5789182282?utm_medium=api&utm_source=bce444a8) — relationrx · London, UK · £60,470–£60,470
+- [Sports Trader](https://www.adzuna.co.uk/jobs/details/5789181802?utm_medium=api&utm_source=bce444a8) — White Swan Data · Pentonville, North London · £42,617–£42,617
+- [Business Intelligence Engineer, Amazon Customer Service](https://www.adzuna.co.uk/jobs/details/5789181703?utm_medium=api&utm_source=bce444a8) — Amazon · London, UK · £78,080–£78,080
+- [Internship - Institutional Business UK](https://www.adzuna.co.uk/jobs/details/5789181207?utm_medium=api&utm_source=bce444a8) — BBVA · London, UK · £55,359–£55,359
+- [Analytics Engineer / Data Quality Engineer](https://www.adzuna.co.uk/jobs/details/5789181193?utm_medium=api&utm_source=bce444a8) — Funding Circle · London, UK · £72,201–£72,201
+- [Early Years Teaching Assistant](https://www.adzuna.co.uk/jobs/details/5789179924?utm_medium=api&utm_source=bce444a8) — Redhill Primary School · Cannock, Staffordshire · £25,186–£25,989
+- [Expert Agentic AI Engineer](https://www.adzuna.co.uk/jobs/details/5789179550?utm_medium=api&utm_source=bce444a8) — Description Ciklum · London, UK · £71,858–£71,858
+- [Research Scientist, Reinforcement Learning, DeepMind](https://www.adzuna.co.uk/jobs/land/ad/5789179408?se=tjJkVS158RGvJL6ICLaauw&utm_medium=api&utm_source=bce444a8&v=3157077436EBAA908049FBA6783F0FB5A80E74B0) — Google · London, UK · £60,332–£60,332
+- [eDV Data Scientist](https://www.adzuna.co.uk/jobs/land/ad/5787488202?se=wu7QUi158RGkZupZrIVo-Q&utm_medium=api&utm_source=bce444a8&v=CF487E4DCAB4E447628DCE63BB642D16B7A17230) — NSD · Cheltenham, Gloucestershire · £95,000–£95,000
+- [IIoT and Industrial AI Solution Architect](https://www.adzuna.co.uk/jobs/details/5787104513?utm_medium=api&utm_source=bce444a8) — EUROPEAN SOFTWARE SOLUTIONS  LIMITED · Warwick, Warwickshire · £143,000–£143,000
+
+### 2026-07-05
 - [AI Engineer Placement Programme No Experience Needed](https://www.adzuna.co.uk/jobs/land/ad/5788879426?se=spJMe1V48RG-cvvra3L-5Q&utm_medium=api&utm_source=bce444a8&v=689CFEB841A826BE9457E48571E316337FF1C08B) — IT Online Learning · Liverpool, Merseyside · £75,000–£75,000
 - [AI Engineer Placement Programme No Experience Needed](https://www.adzuna.co.uk/jobs/land/ad/5788563472?se=spJMe1V48RG-cvvra3L-5Q&utm_medium=api&utm_source=bce444a8&v=97FC9A6EEAD47FD0DAA7A5D22CB8F41D69C07902) — IT Online Learning · North West London, London · £75,000–£75,000
 - [Sr. Applied AI Solutions Architect, Amazon Connect](https://www.adzuna.co.uk/jobs/details/5788862028?utm_medium=api&utm_source=bce444a8) — Amazon · Charing Cross, Central London · £56,510–£56,510
