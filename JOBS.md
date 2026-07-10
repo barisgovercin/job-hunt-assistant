@@ -1,11 +1,98 @@
 # 🎯 Job board
 
-_1136 open role(s) from the last 14 days · 1136 tracked in total · updated 2026-07-09._
+_1221 open role(s) from the last 14 days · 1221 tracked in total · updated 2026-07-10._
 
 > Auto-generated from the Adzuna API and target ATS boards. Full history in [`data/jobs.csv`](data/jobs.csv). Review and apply manually.
 
 
-### 2026-07-09 (today)
+### 2026-07-10 (today)
+- [Remote Coach Applied AI Engineering](https://www.adzuna.co.uk/jobs/details/5795430055?utm_medium=api&utm_source=bce444a8) — Corndel · Yarcombe, Honiton · £74,000–£82,000
+- [Remote ML Engineer](https://www.adzuna.co.uk/jobs/details/5795430005?utm_medium=api&utm_source=bce444a8) — Iproov · Waterloo, South East London · £63,000–£97,000
+- [AI Forward Deployed Engineer - Machine Learning](https://www.adzuna.co.uk/jobs/details/5795428989?utm_medium=api&utm_source=bce444a8) — Nova Source Technologies · Bagshot, Surrey · £100,000–£100,000
+- [AI/ML Engineer](https://www.adzuna.co.uk/jobs/details/5795167673?utm_medium=api&utm_source=bce444a8) — Version 1 · UK · £57,488–£57,488
+- [DevOps Engineer - ML](https://www.adzuna.co.uk/jobs/details/5794982520?utm_medium=api&utm_source=bce444a8) — Bupa · Central London, London · £73,948–£73,948
+- [Software Engineer (AI-Native Platform & Integrations) (Train AI Models Part Time!)](https://www.adzuna.co.uk/jobs/details/5795455026?utm_medium=api&utm_source=bce444a8) — Mercor · UK · £35,571–£35,571
+- [Remote Software Engineer](https://www.adzuna.co.uk/jobs/details/5795430338?utm_medium=api&utm_source=bce444a8) — Foundation Health · Dean Clough Industrial Park, Halifax · £78,000–£100,000
+- [C# Developer](https://www.adzuna.co.uk/jobs/details/5795430124?utm_medium=api&utm_source=bce444a8) — WHD · Shippon, Abingdon · £45,000–£60,000
+- [DevOps Engineer](https://www.adzuna.co.uk/jobs/details/5795430237?utm_medium=api&utm_source=bce444a8) — WeDoTech · St James's, South West London · £75,000–£85,000
+- [Remote Data & AI Engineer](https://www.adzuna.co.uk/jobs/details/5795429878?utm_medium=api&utm_source=bce444a8) — Profectus Recruitment · Caversham, Reading · £61,000–£101,000
+- [Enterprise Data Architect](https://www.adzuna.co.uk/jobs/land/ad/5795295406?se=bCIv-Eh88RGAkYakvi66rA&utm_medium=api&utm_source=bce444a8&v=AB164DEC786AE7FD780625796145ECF16FBDAF65) — Exalto Consulting ltd · London, UK · £93,299–£93,299
+- [Inspection and Test Technician](https://www.adzuna.co.uk/jobs/land/ad/5795269308?se=bCIv-Eh88RGAkYakvi66rA&utm_medium=api&utm_source=bce444a8&v=1B09A432B17BBB2E8390816D76EE460915E63301) — Saab UK · Fareham, Hampshire · £44,131–£44,131
+- [Cloud Consultant](https://www.adzuna.co.uk/jobs/details/5795215590?utm_medium=api&utm_source=bce444a8) — Scale Factory · South East London, London · £72,592–£72,592
+- [Forward Deployment Engineer](https://www.adzuna.co.uk/jobs/details/5795167665?utm_medium=api&utm_source=bce444a8) — Barclays · Glasgow, Scotland · £45,961–£45,961
+- [AI Engineer](https://www.adzuna.co.uk/jobs/details/5795166077?utm_medium=api&utm_source=bce444a8) — Envitia · UK · £66,336–£66,336
+- [Engineer](https://www.adzuna.co.uk/jobs/details/5795165999?utm_medium=api&utm_source=bce444a8) — Sainsbury's DTD · London, UK · £57,338–£57,338
+- [Full-Stack Software Engineer](https://www.adzuna.co.uk/jobs/details/5795166004?utm_medium=api&utm_source=bce444a8) — Monument · UK · £76,750–£76,750
+- [Frontend Engineer (Train AI Models Part Time!)](https://www.adzuna.co.uk/jobs/details/5795165983?utm_medium=api&utm_source=bce444a8) — Mercor · UK · £36,354–£36,354
+- [Enterprise Data Architect](https://www.adzuna.co.uk/jobs/details/5795097411?utm_medium=api&utm_source=bce444a8) — Exalto Consulting Limited · Leeds, West Yorkshire · £84,417–£84,417
+- [Cloud Consultant](https://www.adzuna.co.uk/jobs/land/ad/5795037384?se=bCIv-Eh88RGAkYakvi66rA&utm_medium=api&utm_source=bce444a8&v=6CA195A76FF6B584A1B8C0F965CF1984D1D09C20) — Scale Factory · Southwark, South East London · £68,053–£68,053
+- [Forward Deployed AI Engineer](https://www.adzuna.co.uk/jobs/details/5794887188?utm_medium=api&utm_source=bce444a8) — ConvaTec · Paddington, West London · £55,712–£55,712
+- [AI Software Engineer](https://www.adzuna.co.uk/jobs/land/ad/5794862721?se=bCIv-Eh88RGAkYakvi66rA&utm_medium=api&utm_source=bce444a8&v=897A155D5CB139D3A5CF75CA0981B34CB5F96AAE) — X-On Health · UK · £35,000–£35,000
+- [Enterprise Data Architect](https://www.adzuna.co.uk/jobs/details/5794839977?utm_medium=api&utm_source=bce444a8) — Exalto Consulting ltd · The City, Central London · £93,738–£93,738
+- [Electronics & Circuit Logic Expert (AI Community)](https://www.adzuna.co.uk/jobs/details/5794821549?utm_medium=api&utm_source=bce444a8) — TELUS Digital · Borough, South East London · £46,852–£46,852
+- [Data Analyst](https://www.adzuna.co.uk/jobs/details/5795430317?utm_medium=api&utm_source=bce444a8) — Stafforce Ports · Litherland, Liverpool · £30,000–£35,000
+- [Remote Geospatial Data Engineer](https://www.adzuna.co.uk/jobs/details/5795430033?utm_medium=api&utm_source=bce444a8) — Mapaction · Crowell, Chinnor · £29,000–£53,000
+- [Remote Java Software Engineer](https://www.adzuna.co.uk/jobs/details/5795429857?utm_medium=api&utm_source=bce444a8) — Adria Solutions · Poynton, Stockport · £40,000–£60,000
+- [Software Engineer](https://www.adzuna.co.uk/jobs/details/5795428457?utm_medium=api&utm_source=bce444a8) — Scotlands Rural College · Edinburgh City Centre, Edinburgh · £40,000–£40,000
+- [Data Operations Engineer](https://www.adzuna.co.uk/jobs/details/5795387416?utm_medium=api&utm_source=bce444a8) — LMAX Group · White City, West London · £64,711–£64,711
+- [Python Engineer. New Product Team.](https://www.adzuna.co.uk/jobs/land/ad/5795207314?se=umLw-Eh88RGD_JySugrbTQ&utm_medium=api&utm_source=bce444a8&v=671F422D2F517F83DF789180F6314B02705A4BAE) — Data Intellect · Belfast, Northern Ireland · £58,398–£58,398
+- [Graduate Programme 2027: Data Scientist and Analyst](https://www.adzuna.co.uk/jobs/details/5795167683?utm_medium=api&utm_source=bce444a8) — Revolut · UK · £27,671–£27,671
+- [Data Engineer](https://www.adzuna.co.uk/jobs/details/5795166060?utm_medium=api&utm_source=bce444a8) — Barclays · Northampton, Northamptonshire · £45,921–£45,921
+- [Product Designer](https://www.adzuna.co.uk/jobs/details/5795165975?utm_medium=api&utm_source=bce444a8) — Revolut · UK · £39,691–£39,691
+- [Product Designer (Platform)](https://www.adzuna.co.uk/jobs/details/5795165978?utm_medium=api&utm_source=bce444a8) — Revolut · UK · £43,957–£43,957
+- [Data Science and Analytics Graduate](https://www.adzuna.co.uk/jobs/details/5794889951?utm_medium=api&utm_source=bce444a8) — Sage · Newcastle Upon Tyne, Tyne & Wear · £53,030–£53,030
+- [Solution Sales Specialist 3](https://www.adzuna.co.uk/jobs/details/5794889723?utm_medium=api&utm_source=bce444a8) — IQVIA · London, UK · £41,874–£41,874
+- [Advanced Specialist, Data Scientist](https://www.adzuna.co.uk/jobs/details/5794889658?utm_medium=api&utm_source=bce444a8) — Pearson · London, UK · £70,750–£70,750
+- [E-7 Mission Systems and Commercial Mods Certification Engineer](https://www.adzuna.co.uk/jobs/details/5794886817?utm_medium=api&utm_source=bce444a8) — The Boeing Company · Bristol, South West England · £51,296–£51,296
+- [GNSS Signal Processing Engineer](https://www.adzuna.co.uk/jobs/details/5794876737?utm_medium=api&utm_source=bce444a8) — Hexwired Recruitment Limited · Westminster, South West London · £70,000–£80,000
+- [Data Analyst](https://www.adzuna.co.uk/jobs/details/5794841726?utm_medium=api&utm_source=bce444a8) — Warwick Recruit Ltd · Birmingham, West Midlands · £35,000–£35,000
+- [Pricing Analyst](https://www.adzuna.co.uk/jobs/details/5794839695?utm_medium=api&utm_source=bce444a8) — Vermelo · Manchester, Greater Manchester · £41,910–£41,910
+- [Data Engineer](https://www.adzuna.co.uk/jobs/details/5794826621?utm_medium=api&utm_source=bce444a8) — Simon James IT · London, UK · £98,020–£151,060
+- [Supplier Analytics Analyst](https://www.adzuna.co.uk/jobs/details/5794798122?utm_medium=api&utm_source=bce444a8) — Sainsbury's · London, UK · £55,623–£55,623
+- [Embedded Software Engineer (UAVs)](https://www.adzuna.co.uk/jobs/details/5795427336?utm_medium=api&utm_source=bce444a8) — Archangel Aerospace Group · North Hinksey Village, Oxford · £53,000–£79,000
+- [General Assistant](https://www.adzuna.co.uk/jobs/details/5794884904?utm_medium=api&utm_source=bce444a8) — BaxterStorey UK · Magna Park, Lutterworth · £27,976–£27,976
+- [Chef De Partie - Mon to Fri - Isleworth](https://www.adzuna.co.uk/jobs/details/5794884776?utm_medium=api&utm_source=bce444a8) — BaxterStorey UK · Isleworth, West London · £34,736–£34,736
+- [Head Chef](https://www.adzuna.co.uk/jobs/details/5794884817?utm_medium=api&utm_source=bce444a8) — BaxterStorey UK · Trumpington, Cambridge · £0–£42,000
+- [Commis Chef](https://www.adzuna.co.uk/jobs/details/5794884720?utm_medium=api&utm_source=bce444a8) — BaxterStorey UK · Derby, Derbyshire · £27,976–£27,976
+- [Vending Driver](https://www.adzuna.co.uk/jobs/details/5794884437?utm_medium=api&utm_source=bce444a8) — BaxterStorey UK · Bristol, South West England · £0–£25,000
+- [Chef](https://www.adzuna.co.uk/jobs/details/5794884529?utm_medium=api&utm_source=bce444a8) — BaxterStorey UK · Cadham, Glenrothes · £32,864–£32,864
+- [Chef](https://www.adzuna.co.uk/jobs/details/5794884555?utm_medium=api&utm_source=bce444a8) — BaxterStorey UK · Dunnikier Park, Kirkcaldy · £32,864–£32,864
+- [Front of house Assistant](https://www.adzuna.co.uk/jobs/details/5794884515?utm_medium=api&utm_source=bce444a8) — BaxterStorey UK · Caldbeck, Wigton · £27,976–£27,976
+- [General Assistant / Barista](https://www.adzuna.co.uk/jobs/details/5794884408?utm_medium=api&utm_source=bce444a8) — BaxterStorey UK · Leeds, West Yorkshire · £25,396–£25,396
+- [General Assistant](https://www.adzuna.co.uk/jobs/details/5794884255?utm_medium=api&utm_source=bce444a8) — BaxterStorey UK · Huntingdon, Cambridgeshire · £26,436–£26,436
+- [Machine Learning Engineer](https://www.adzuna.co.uk/jobs/details/5794552811?utm_medium=api&utm_source=bce444a8) — SMG · Oxford Circus, Central London · £74,850–£74,850
+- [Junior AI Operations Assistant](https://www.adzuna.co.uk/jobs/land/ad/5794481490?se=GKuR90h88RGSpc2JeqBnow&utm_medium=api&utm_source=bce444a8&v=80BFDF15F8B83B1171BC8D2AAFC96548E0B456A3) — Kingsgate Recruitment Ltd · Cambridge, Cambridgeshire · £28,000–£40,000
+- [Junior AI Operations Assistant](https://www.adzuna.co.uk/jobs/land/ad/5794475182?se=GKuR90h88RGSpc2JeqBnow&utm_medium=api&utm_source=bce444a8&v=F2F63250C6AF15B3D5F4CE25C58C2CA744E3F595) — Kingsgate Recruitment Ltd · Bristol, South West England · £28,000–£40,000
+- [Junior AI Operations Assistant](https://www.adzuna.co.uk/jobs/land/ad/5794473227?se=GKuR90h88RGSpc2JeqBnow&utm_medium=api&utm_source=bce444a8&v=E3DB813C29E788629CAD34787E31C39FDDEFEFA9) — Kingsgate Recruitment Ltd · Manchester, Greater Manchester · £28,000–£40,000
+- [Electrical Control Design Engineer](https://www.adzuna.co.uk/jobs/land/ad/5794315539?se=GKuR90h88RGSpc2JeqBnow&utm_medium=api&utm_source=bce444a8&v=EB5DF5C18BA32B4D86698C96B67FD46B79E5797E) — Millitec Food Systems Ltd · Derby, Derbyshire · £40,000–£40,000
+- [Recruitment Consultant](https://www.adzuna.co.uk/jobs/details/5794293464?utm_medium=api&utm_source=bce444a8) — Cortex Search · London, UK · £30,000–£150,000
+- [Founding Engineering - Top London Software House](https://www.adzuna.co.uk/jobs/land/ad/5794287205?se=GKuR90h88RGSpc2JeqBnow&utm_medium=api&utm_source=bce444a8&v=EC8C2BBE5A74B3DA2E230A21B018D604F440BF21) — IT Graduate Recruitment · London, UK · £60,000–£60,000
+- [Research Data Scientist](https://www.adzuna.co.uk/jobs/details/5794247601?utm_medium=api&utm_source=bce444a8) — dunnhumby · London, UK · £53,317–£53,317
+- [Machine Learning Engineer, ADAS](https://www.adzuna.co.uk/jobs/details/5794244799?utm_medium=api&utm_source=bce444a8) — Wayve · London, UK · £53,285–£53,285
+- [Graduate AI Engineer](https://www.adzuna.co.uk/jobs/details/5794243627?utm_medium=api&utm_source=bce444a8) — Abound · London, UK · £48,166–£48,166
+- [In-House Recruiter / Talent Search Consultant (6 MONTH FTC)](https://www.adzuna.co.uk/jobs/details/5794242441?utm_medium=api&utm_source=bce444a8) — Amini · UK · £59,099–£59,099
+- [AI Strategy Analyst](https://www.adzuna.co.uk/jobs/details/5794241936?utm_medium=api&utm_source=bce444a8) — Schonfeld · London, UK · £67,953–£67,953
+- [Remote Machine Learning Engineer](https://www.adzuna.co.uk/jobs/details/5794011841?utm_medium=api&utm_source=bce444a8) — Stackadapt · Croxteth, Liverpool · £70,000–£110,000
+- [Remote Software Engineer](https://www.adzuna.co.uk/jobs/details/5794011339?utm_medium=api&utm_source=bce444a8) — Faculty AI · St Lukes, Central London · £68,000–£108,000
+- [Machine Learning Engineer - Defence](https://www.adzuna.co.uk/jobs/details/5794009072?utm_medium=api&utm_source=bce444a8) — Anson Mccade · Totterdown, Bristol · £90,000–£90,000
+- [Machine Learning Ops Engineer](https://www.adzuna.co.uk/jobs/details/5794008218?utm_medium=api&utm_source=bce444a8) — Affinity Water Limited · North Mymms, Hatfield · £60,000–£60,000
+- [Client Partner - Europe/London](https://www.adzuna.co.uk/jobs/details/5794690009?utm_medium=api&utm_source=bce444a8) — 10Pearls · London, UK · £68,103–£68,103
+- [Digital Forensic Specialist](https://www.adzuna.co.uk/jobs/details/5794790262?utm_medium=api&utm_source=bce444a8) — Metropolitan Police Service · London, UK · £42,197–£42,197
+- [Chemist](https://www.adzuna.co.uk/jobs/details/5794595291?utm_medium=api&utm_source=bce444a8) — Cranleigh STEM · North Hinksey Village, Oxford · £36,379–£36,379
+- [eDV Data Scientist](https://www.adzuna.co.uk/jobs/details/5794010591?utm_medium=api&utm_source=bce444a8) — NSD · Manchester Science Park, Manchester · £95,000–£95,000
+- [FaceSwap Supervisor](https://www.adzuna.co.uk/jobs/details/5794495658?utm_medium=api&utm_source=bce444a8) — Disney · London, UK · £43,003–£43,003
+- [Core Laboratory Sales Specialist (West Midlands)](https://www.adzuna.co.uk/jobs/land/ad/5794377035?se=wIct-kh88RGSpc2JeqBnow&utm_medium=api&utm_source=bce444a8&v=E0E432E9493EF7E7EA605902CE34E933406EEADF) — Adecco · West Midlands, UK · £86,060–£103,220
+- [Sous Chef - Winnersh](https://www.adzuna.co.uk/jobs/land/ad/5794306480?se=wIct-kh88RGSpc2JeqBnow&utm_medium=api&utm_source=bce444a8&v=6F3B1DAE6F1B511762A53A9D4122BC56812781CC) — BaxterStorey · Woking, Surrey · £33,811–£33,811
+- [General Catering Assistant - Milton Keynes](https://www.adzuna.co.uk/jobs/land/ad/5794306473?se=wIct-kh88RGSpc2JeqBnow&utm_medium=api&utm_source=bce444a8&v=4B858EE4D1636D0619E1FF6CDD2E5A4DF5FD163F) — BaxterStorey · Milton Keynes, Buckinghamshire · £26,392–£26,392
+- [Executive Chef - Preston](https://www.adzuna.co.uk/jobs/land/ad/5794306444?se=wIct-kh88RGSpc2JeqBnow&utm_medium=api&utm_source=bce444a8&v=A2BBBF71D0027852C81D093CE232CC68339EA520) — BaxterStorey · Preston, Lancashire · £34,165–£34,165
+- [Executive Chef - London](https://www.adzuna.co.uk/jobs/land/ad/5794289042?se=wIct-kh88RGSpc2JeqBnow&utm_medium=api&utm_source=bce444a8&v=ECCDBE326288E5813EC1C1883A6D2067416F5ABD) — BaxterStorey · London, UK · £35,591–£35,591
+- [Hospitality Chef De Partie - Mon to Fri - Farrington - London](https://www.adzuna.co.uk/jobs/land/ad/5794289038?se=wIct-kh88RGSpc2JeqBnow&utm_medium=api&utm_source=bce444a8&v=CF4C4DBC9A99924DA8E6987C16E3241710A89E0E) — BaxterStorey · London, UK · £35,136–£35,136
+- [Barista - London](https://www.adzuna.co.uk/jobs/land/ad/5794286603?se=wIct-kh88RGSpc2JeqBnow&utm_medium=api&utm_source=bce444a8&v=E9672D79847FDA438ED009291306EE887AB46E9C) — BaxterStorey · London, UK · £26,991–£26,991
+- [Kitchen Porter - 6 month contract - London](https://www.adzuna.co.uk/jobs/land/ad/5794286605?se=wIct-kh88RGSpc2JeqBnow&utm_medium=api&utm_source=bce444a8&v=66846053AF7D3FB0583DDE51F98413A726588712) — BaxterStorey · London, UK · £28,397–£28,397
+- [Hospitality Assistant (Mon - Fri) - London](https://www.adzuna.co.uk/jobs/land/ad/5794050993?se=wIct-kh88RGSpc2JeqBnow&utm_medium=api&utm_source=bce444a8&v=48BB0689583F613DBC415CDD615AAB3800641606) — BaxterStorey · London, UK · £29,036–£29,036
+- [Remote AI/ML Engineer](https://www.adzuna.co.uk/jobs/details/5794011451?utm_medium=api&utm_source=bce444a8) — Air Apps · St. Mildreds, Canterbury · £48,000–£88,000
+
+### 2026-07-09
 - [Remote AI Training - Machine Learning Specialist](https://www.adzuna.co.uk/jobs/details/5794012303?utm_medium=api&utm_source=bce444a8) — Prolific · Turnpike Lane, North London · £63,000–£88,000
 - [Remote ML Engineer (CoreAI)](https://www.adzuna.co.uk/jobs/details/5794012193?utm_medium=api&utm_source=bce444a8) — Iproov · Waterloo, South East London · £63,000–£97,000
 - [Machine Learning Engineer (Recommendation)](https://www.adzuna.co.uk/jobs/details/5794011351?utm_medium=api&utm_source=bce444a8) — Sky · Isleworth, West London · £45,000–£66,000
