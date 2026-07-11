@@ -4,12 +4,15 @@
 "ashby-cohere-556467eb-3dc8-46e2-b015-277872210997",
 "ashby-cohere-d81c28f5-2945-4c49-bc5b-86e345334cfb",
 "ashby-cohere-df93ec57-d51e-4466-93be-4878c5fda4da",
+"ashby-elevenlabs-05e53a4b-8ab9-40a1-b53d-c730ef684dbe",
 "ashby-elevenlabs-0e238579-d1db-4db2-a37a-8c28e86ce55e",
 "ashby-elevenlabs-1034a604-b714-428b-a9fd-fa8c0cd795cf",
 "ashby-elevenlabs-3178581d-ea70-4dee-b018-2ce2d2a18bbe",
+"ashby-elevenlabs-347282a4-74ff-4e56-a92d-3c4249ee6c28",
 "ashby-elevenlabs-3d650946-5ac2-4729-9ae4-129c43fcd0b5",
 "ashby-elevenlabs-6848ece5-1ce5-4ab4-9dd6-0704cd0f8ecd",
 "ashby-elevenlabs-7664e3c4-2336-4d1a-90cf-91d1268de10d",
+"ashby-elevenlabs-8678d594-66cb-4150-a0f8-44599c54f89a",
 "ashby-elevenlabs-a3097257-a07a-4a7e-b9fe-b8555c1a0fa7",
 "ashby-elevenlabs-b081fafb-3659-4bf6-8e87-eb5ccc3ff234",
 "ashby-openai-01091aed-427d-4e10-8cdb-fb500cf55bb9",
@@ -112,5 +115,6 @@
 "greenhouse-scaleai-4413992005",
 "greenhouse-scaleai-4661647005",
 "greenhouse-scaleai-4711544005",
+"greenhouse-stabilityai-4924873101",
 "lever-mistral-e59555e3-899d-4e1e-875f-90b825bc1e28"
 ]
