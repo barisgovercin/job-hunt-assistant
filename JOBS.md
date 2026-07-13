@@ -1,11 +1,64 @@
 # 🎯 Job board
 
-_1354 open role(s) from the last 14 days · 1354 tracked in total · updated 2026-07-12._
+_1186 open role(s) from the last 14 days · 1405 tracked in total · updated 2026-07-13._
 
 > Auto-generated from the Adzuna API and target ATS boards. Full history in [`data/jobs.csv`](data/jobs.csv). Review and apply manually.
 
 
-### 2026-07-12 (today)
+### 2026-07-13 (today)
+- [AI/ML Engineer](https://www.adzuna.co.uk/jobs/land/ad/5798589259?se=DKMTi6R-8RG6-NJJWU_Nzg&utm_medium=api&utm_source=bce444a8&v=ECB3E0D061E6E2969348408F77E80446F23C197F) — Version 1 · UK · £57,488–£57,488
+- [Research Engineer, Tool Use, DeepMind](https://www.adzuna.co.uk/jobs/details/5798383680?utm_medium=api&utm_source=bce444a8) — Google · London, UK · £46,577–£46,577
+- [AI Compliance Officer](https://www.adzuna.co.uk/jobs/land/ad/5798755523?se=zK6Si6R-8RGXZesMr2Jwog&utm_medium=api&utm_source=bce444a8&v=425B27EDFAA24C45D1298C770B6C3AEE54820683) — BNY · Manchester Science Park, Manchester · £50,357–£50,357
+- [Site Reliability Engineer](https://www.adzuna.co.uk/jobs/details/5798715928?utm_medium=api&utm_source=bce444a8) — NEEV LIMITED · Upton Park, East London · £44,000–£84,000
+- [Automation and Workflow Architect](https://www.adzuna.co.uk/jobs/details/5798715722?utm_medium=api&utm_source=bce444a8) — SmartPA · Edinburgh City Centre, Edinburgh · £25,000–£58,000
+- [AI Engineer](https://www.adzuna.co.uk/jobs/details/5798715350?utm_medium=api&utm_source=bce444a8) — Zero100 · London, UK · £66,962–£66,962
+- [Optical Instrumentation Engineer | Spectroscopy | Analytical Instrumentation | AI | Photonics | HealthTech | Deep Tech Startup](https://www.adzuna.co.uk/jobs/details/5798606585?utm_medium=api&utm_source=bce444a8) — iLoF · London, UK · £56,082–£56,082
+- [Software Engineer (AI-Native Platform & Integrations) (Train AI Models Part Time!)](https://www.adzuna.co.uk/jobs/land/ad/5798589860?se=zK6Si6R-8RGXZesMr2Jwog&utm_medium=api&utm_source=bce444a8&v=297363B9EF063BCDC219727055D6C158F4997430) — Mercor · UK · £35,571–£35,571
+- [Production Engineer](https://www.adzuna.co.uk/jobs/land/ad/5798589289?se=zK6Si6R-8RGXZesMr2Jwog&utm_medium=api&utm_source=bce444a8&v=1A33B385E8B96E25CB33325DC8837E93F09E6ADC) — HSBC · UK · £46,617–£46,617
+- [AI Inference Engineer QVAC (100% remote Worldwide)](https://www.adzuna.co.uk/jobs/details/5798566891?utm_medium=api&utm_source=bce444a8) — Tether Operations Limited · UK · £53,642–£53,642
+- [AI Research Engineer (Kernel & Inference Optimization) - 100% Remote Worldwide](https://www.adzuna.co.uk/jobs/details/5798559828?utm_medium=api&utm_source=bce444a8) — Tether Operations Limited · UK · £52,020–£52,020
+- [AI & Automation Developer (AI Copilot Developer)](https://www.adzuna.co.uk/jobs/details/5798446545?utm_medium=api&utm_source=bce444a8) — Warwickshire County Council · Warwick, Warwickshire · £36,363–£39,152
+- [Founding AI Engineer](https://www.adzuna.co.uk/jobs/land/ad/5798424240?se=zK6Si6R-8RGXZesMr2Jwog&utm_medium=api&utm_source=bce444a8&v=9A6DD24499A30B8279ECB46E261667DADBF8BF6C) — Hexwired Recruitment Limited · UK · £100,000–£150,000
+- [Data Scientist III](https://www.adzuna.co.uk/jobs/details/5798385479?utm_medium=api&utm_source=bce444a8) — RELX INC · Farringdon, Exeter · £57,170–£57,170
+- [Data Scientist III](https://www.adzuna.co.uk/jobs/details/5798385454?utm_medium=api&utm_source=bce444a8) — RELX INC · UK · £59,500–£59,500
+- [Data Scientist / Statistician](https://www.adzuna.co.uk/jobs/details/5798715574?utm_medium=api&utm_source=bce444a8) — Capital One UK · Sneinton, Nottingham · £62,000–£102,000
+- [Modelling Consultant](https://www.adzuna.co.uk/jobs/land/ad/5798672780?se=LqQ1jKR-8RG6-NJJWU_Nzg&utm_medium=api&utm_source=bce444a8&v=D1EE0C56ABCD86F87BEFE24B7F5A7D6D0B951A2A) — Intertek · UK · £41,589–£41,589
+- [Aircraft Maintenance Scheduling Engineer](https://www.adzuna.co.uk/jobs/land/ad/5798638363?se=LqQ1jKR-8RG6-NJJWU_Nzg&utm_medium=api&utm_source=bce444a8&v=7D7F097524B8F6D359E04176A6DC7224FFDD1465) — Morson Edge · Middle Wallop, Stockbridge · £54,678–£54,678
+- [Product Designer - Hiring Sprint](https://www.adzuna.co.uk/jobs/land/ad/5798589305?se=LqQ1jKR-8RG6-NJJWU_Nzg&utm_medium=api&utm_source=bce444a8&v=F0BEEE3F9F2E375CC004D554DDDE838860F926A6) — Revolut · UK · £39,846–£39,846
+- [Postdoctoral Research Associate](https://www.adzuna.co.uk/jobs/details/5798409809?utm_medium=api&utm_source=bce444a8) — University of York · York, North Yorkshire · £37,694–£38,784
+- [Associate Consultant - Financial Institutions Consulting - Europe](https://www.adzuna.co.uk/jobs/details/5798385398?utm_medium=api&utm_source=bce444a8) — IQVIA · London, UK · £66,059–£66,059
+- [Electrical Design Architect, EMEA](https://www.adzuna.co.uk/jobs/details/5798385032?utm_medium=api&utm_source=bce444a8) — Oracle · UK · £79,812–£79,812
+- [Technical Training Instructor - Industrial & Process Automation](https://www.adzuna.co.uk/jobs/details/5798334083?utm_medium=api&utm_source=bce444a8) — Schneider Electric · Warrington, Cheshire · £45,751–£45,751
+- [AI Engineer - FDE (Forward Deployed Engineer)](https://databricks.com/company/careers/open-positions/job?gh_jid=8593713002) — Databricks · Remote - United Kingdom
+- [Research Engineer, Tool Use, DeepMind](https://www.adzuna.co.uk/jobs/land/ad/5797956185?se=DKMTi6R-8RG6-NJJWU_Nzg&utm_medium=api&utm_source=bce444a8&v=4FBC0F8BD6256A9077A73EFAEC54200C6AD865C2) — Google · London, UK · £57,135–£57,135
+- [Platform Engineer](https://www.adzuna.co.uk/jobs/details/5797955969?utm_medium=api&utm_source=bce444a8) — Faculty AI · London, UK · £51,145–£51,145
+- [Research Scientist - Material Modelling](https://www.adzuna.co.uk/jobs/details/5797955751?utm_medium=api&utm_source=bce444a8) — PhysicsX · London, UK · £43,586–£43,586
+- [Machine Learning Engineer](https://www.adzuna.co.uk/jobs/details/5797954603?utm_medium=api&utm_source=bce444a8) — Faculty AI · London, UK · £51,902–£51,902
+- [Data Scientist](https://www.adzuna.co.uk/jobs/details/5797936217?utm_medium=api&utm_source=bce444a8) — Lendable · London, UK · £39,168–£39,168
+- [AI Engineer - Contract](https://www.adzuna.co.uk/jobs/details/5798252885?utm_medium=api&utm_source=bce444a8) — Oxford Dynamics · Oxford, Oxfordshire · £83,676–£83,676
+- [Solution Architect - Guidewire](https://www.adzuna.co.uk/jobs/land/ad/5798086771?se=zK6Si6R-8RGXZesMr2Jwog&utm_medium=api&utm_source=bce444a8&v=6DACEE0E12E9E380C361C8377BD4C2E793BD99FE) — Admiral Group Plc · UK · £61,190–£61,190
+- [AI Engineer](https://www.adzuna.co.uk/jobs/land/ad/5798086770?se=zK6Si6R-8RGXZesMr2Jwog&utm_medium=api&utm_source=bce444a8&v=9B0D8167DDD3842416ED5AE0CDE0E1E02AEEA7F2) — Barclays · Knutsford, Cheshire · £48,602–£48,602
+- [Cloud Engineering Consultant (Azure)](https://www.adzuna.co.uk/jobs/details/5797956324?utm_medium=api&utm_source=bce444a8) — Nasstar · Holborn, Central London · £72,938–£72,938
+- [Trainee Recruitment Consultant](https://www.adzuna.co.uk/jobs/details/5797956278?utm_medium=api&utm_source=bce444a8) — Brio Digital · UK · £35,000–£45,000
+- [GTM Engineer](https://www.adzuna.co.uk/jobs/details/5797956035?utm_medium=api&utm_source=bce444a8) — Fleek · London, UK · £48,962–£48,962
+- [Technical Architect](https://www.adzuna.co.uk/jobs/details/5797955801?utm_medium=api&utm_source=bce444a8) — Ellison Coast · UK · £67,522–£67,522
+- [AI Engineer - Retail (LH)](https://www.adzuna.co.uk/jobs/land/ad/5797955713?se=zK6Si6R-8RGXZesMr2Jwog&utm_medium=api&utm_source=bce444a8&v=5B16C128F5EF59D5BC436E6E1085815155E3B519) — Sainsbury's · Farringdon, Central London · £48,586–£48,586
+- [Analytics Engineer](https://www.adzuna.co.uk/jobs/details/5797955486?utm_medium=api&utm_source=bce444a8) — Intelligent Lending · UK · £76,639–£76,639
+- [Software Engineer](https://www.adzuna.co.uk/jobs/details/5797955382?utm_medium=api&utm_source=bce444a8) — Autodesk · UK · £45,118–£45,118
+- [AI Builder, Emerging Talent - UK & Ireland Market](https://www.adzuna.co.uk/jobs/details/5797955278?utm_medium=api&utm_source=bce444a8) — Salesforce · London, UK · £40,008–£40,008
+- [Digital Forensic Specialist](https://www.adzuna.co.uk/jobs/details/5798300801?utm_medium=api&utm_source=bce444a8) — Metropolitan Police Service · London, UK · £42,197–£42,197
+- [Organisational Effectiveness Culture and Behaviour Consultant](https://www.adzuna.co.uk/jobs/land/ad/5798086773?se=LqQ1jKR-8RG6-NJJWU_Nzg&utm_medium=api&utm_source=bce444a8&v=7E142FADE9191B8B25636FD970F8D1645C643747) — Barclays · Glasgow, Scotland · £66,211–£66,211
+- [Fraud Data Scientist](https://www.adzuna.co.uk/jobs/land/ad/5798086759?se=LqQ1jKR-8RG6-NJJWU_Nzg&utm_medium=api&utm_source=bce444a8&v=C537720EDAD63D95DF95FF25012F27CB76218743) — Barclays · Northampton, Northamptonshire · £42,800–£42,800
+- [DevOps Engineer](https://www.adzuna.co.uk/jobs/details/5797955518?utm_medium=api&utm_source=bce444a8) — Anduril Industries · London, UK · £42,490–£42,490
+- [Balance Operator](https://www.adzuna.co.uk/jobs/details/5797955062?utm_medium=api&utm_source=bce444a8) — ALS Global · Prescot, Merseyside · £29,405–£29,405
+- [Transformation Change Consultant](https://www.adzuna.co.uk/jobs/details/5797954011?utm_medium=api&utm_source=bce444a8) — Accenture · London, UK · £56,645–£56,645
+- [Precious Metals Administrator](https://www.adzuna.co.uk/jobs/details/5797953553?utm_medium=api&utm_source=bce444a8) — ALS Global · Prescot, Merseyside · £35,677–£35,677
+- [VP, Learning & Development](https://www.adzuna.co.uk/jobs/details/5797955896?utm_medium=api&utm_source=bce444a8) — Avalere Health · London, UK · £63,434–£63,434
+- [Computer Vision R&D Engineer](https://www.adzuna.co.uk/jobs/details/5797953280?utm_medium=api&utm_source=bce444a8) — Hitachi · UK · £48,697–£48,697
+- [Assistant Consultant - Cost Intelligence & Estimating - PMCM](https://www.adzuna.co.uk/jobs/land/ad/5797952952?se=5t15jaR-8RG6-NJJWU_Nzg&utm_medium=api&utm_source=bce444a8&v=F6558B4343D16132EE2037AE80FB2E381EDEF8DF) — WSP · Canary Wharf, East London · £51,762–£51,762
+- [Electrical Design Architect, EMEA](https://www.adzuna.co.uk/jobs/details/5797934458?utm_medium=api&utm_source=bce444a8) — Oracle · UK · £80,825–£80,825
+
+### 2026-07-12
 - [Sr Software Engineer II - Fincrime - Scam Prevention](https://www.adzuna.co.uk/jobs/land/ad/5797714566?se=QHmEEtB98RG6JP0nGhfLVg&utm_medium=api&utm_source=bce444a8&v=2E463B08AF6D60C8EB669089F705A53B0653DB0D) — Wise · London, UK · £60,771–£60,771
 - [AI Engineer / Machine Learning Engineer](https://www.adzuna.co.uk/jobs/land/ad/5797714528?se=QHmEEtB98RG6JP0nGhfLVg&utm_medium=api&utm_source=bce444a8&v=310157F12C286AFCB9B21710C4B1311C23C6AA6B) — Version 1 · UK · £61,942–£61,942
 - [Electrical Control Design Engineer](https://www.adzuna.co.uk/jobs/land/ad/5797592863?se=QHmEEtB98RG6JP0nGhfLVg&utm_medium=api&utm_source=bce444a8&v=FCFBBC867FD8E0385170E9479755952E4084478E) — Millitec Food Systems Ltd · Derby, Derbyshire · £40,000–£40,000
@@ -1167,224 +1220,3 @@ _1354 open role(s) from the last 14 days · 1354 tracked in total · updated 202
 - [Business Development Sales Representative (f/m/d)](https://www.adzuna.co.uk/jobs/details/5780348212?utm_medium=api&utm_source=bce444a8) — Ecolab · UK · £37,791–£37,791
 - [Applied Scientist II, Strategic Account Services (SAS)](https://www.adzuna.co.uk/jobs/details/5780350131?utm_medium=api&utm_source=bce444a8) — Amazon · London, UK · £63,743–£63,743
 - [Graduate AI Machine Learning Engineer](https://www.adzuna.co.uk/jobs/details/5776022886?utm_medium=api&utm_source=bce444a8) — Tech Recruitment UK Ltd · Liverpool Street, Central London · £39,000–£40,000
-
-### 2026-06-28
-- [Machine Learning Systems Engineer](https://www.adzuna.co.uk/jobs/details/5779880661?utm_medium=api&utm_source=bce444a8) — Tether Operations Limited · UK · £71,425–£71,425
-- [Research Engineer, AI Systems / LLM Agents](https://www.adzuna.co.uk/jobs/details/5779623709?utm_medium=api&utm_source=bce444a8) — Career Moves Group · London, UK · £93,600–£93,600
-- [AI Engineer - Automation](https://www.adzuna.co.uk/jobs/details/5779992260?utm_medium=api&utm_source=bce444a8) — Oscar Associates  Limited · Leeds, West Yorkshire · £50,000–£50,000
-- [AI Inference Engineer QVAC (100% remote Worldwide)](https://www.adzuna.co.uk/jobs/details/5779880530?utm_medium=api&utm_source=bce444a8) — Tether Operations Limited · UK · £53,642–£53,642
-- [AI and Digital Solutions Engineer](https://www.adzuna.co.uk/jobs/details/5779854543?utm_medium=api&utm_source=bce444a8) — TrustFlight · Binfield, Bracknell · £46,747–£46,747
-- [SWET-Software Engineer in Test 3 (6-9 Years)](https://www.adzuna.co.uk/jobs/details/5779623446?utm_medium=api&utm_source=bce444a8) — TRINNOVO GROUP LTD · UK · £91,000–£104,000
-- [Solutions Engineer - Cloud & AI Infrastructure](https://www.adzuna.co.uk/jobs/details/5779604422?utm_medium=api&utm_source=bce444a8) — Cisco · Glasgow, Scotland · £64,996–£64,996
-- [Solutions Engineer - Cloud & AI Infrastructure](https://www.adzuna.co.uk/jobs/details/5779604434?utm_medium=api&utm_source=bce444a8) — Cisco · Reading, Berkshire · £68,722–£68,722
-- [Solutions Engineer - Cloud & AI Infrastructure](https://www.adzuna.co.uk/jobs/details/5779604401?utm_medium=api&utm_source=bce444a8) — Cisco · Birmingham, West Midlands · £66,118–£66,118
-- [Solutions Engineer - Cloud & AI Infrastructure](https://www.adzuna.co.uk/jobs/details/5779604399?utm_medium=api&utm_source=bce444a8) — Cisco · Manchester, Greater Manchester · £66,444–£66,444
-- [Solutions Engineer - Cloud & AI Infrastructure](https://www.adzuna.co.uk/jobs/details/5779604406?utm_medium=api&utm_source=bce444a8) — Cisco · Feltham, London · £71,928–£71,928
-- [Solutions Engineer - Cloud & AI Infrastructure](https://www.adzuna.co.uk/jobs/details/5779604396?utm_medium=api&utm_source=bce444a8) — Cisco · London, UK · £70,313–£70,313
-- [Associate Solutions Engineer - CSAP - London, UK](https://www.adzuna.co.uk/jobs/details/5779604402?utm_medium=api&utm_source=bce444a8) — Cisco · London, UK · £52,834–£52,834
-- [Forward Deployed AI Integrator , Field Engineering](https://www.adzuna.co.uk/jobs/details/5779603034?utm_medium=api&utm_source=bce444a8) — Amazon · London, UK · £50,081–£50,081
-- [GI Europe New Business Sales Specialist - Financials](https://www.adzuna.co.uk/jobs/details/5780210010?utm_medium=api&utm_source=bce444a8) — S&P Global · London, UK · £58,382–£58,382
-- [AI Specialist](https://www.adzuna.co.uk/jobs/details/5780183398?utm_medium=api&utm_source=bce444a8) — Homes England · Newcastle Upon Tyne, Tyne & Wear · £65,000–£65,000
-- [Freelance Technology Facilitator (EMEA/Middle East)](https://www.adzuna.co.uk/jobs/details/5779882036?utm_medium=api&utm_source=bce444a8) — Decoded Limited · UK · £33,584–£33,584
-- [Freelance Technology Facilitator (North America)](https://www.adzuna.co.uk/jobs/details/5779858928?utm_medium=api&utm_source=bce444a8) — Decoded Limited · UK · £30,934–£30,934
-- [Information Data Architect](https://www.adzuna.co.uk/jobs/land/ad/5779652848?se=nDcTgvly8RGiVqWJe_bADg&utm_medium=api&utm_source=bce444a8&v=BD574F838EFF5A5AD3A8258FC086E57DE882762F) — Peregrine · Blackpool Airport, Blackpool · £75,000–£75,000
-- [AI Researcher](https://www.adzuna.co.uk/jobs/details/5779607583?utm_medium=api&utm_source=bce444a8) — American Express · London, UK · £76,173–£76,173
-- [Statistical Programmer](https://www.adzuna.co.uk/jobs/details/5779606911?utm_medium=api&utm_source=bce444a8) — IQVIA · London, UK · £40,489–£40,489
-- [Statistical Programmer](https://www.adzuna.co.uk/jobs/details/5779606921?utm_medium=api&utm_source=bce444a8) — IQVIA · Reading, Berkshire · £39,573–£39,573
-- [Customer IT Support Desk Agent](https://www.adzuna.co.uk/jobs/details/5779602304?utm_medium=api&utm_source=bce444a8) — Acron Aviation · Whiteley, Fareham · £44,776–£44,776
-- [Sous Chef](https://www.adzuna.co.uk/jobs/details/5779605829?utm_medium=api&utm_source=bce444a8) — BaxterStorey UK · London, UK · £39,520–£39,520
-- [AI Technical Architect](https://www.adzuna.co.uk/jobs/land/ad/5780128360?se=rM4yWQFz8RGe4ZwL0wNS6w&utm_medium=api&utm_source=bce444a8&v=92BB61958C5F3B98AF291AECB59D06111FDC2A0B) — Inspire People · Hulme, Manchester · £80,000–£80,000
-- [Research Scientist, Wayve Labs](https://jobs.ashbyhq.com/wayve/9e31ede3-b2ea-40a4-9bf2-e9db22682c65) — Wayve · London, United Kingdom
-- [ ML Platform Engineer](https://jobs.ashbyhq.com/synthesia/c2d3d3a8-f7b8-45f5-ad89-dba6ac14625c) — Synthesia · Europe
-- [Enterprise Account Executive - Spain](https://jobs.ashbyhq.com/elevenlabs/1034a604-b714-428b-a9fd-fa8c0cd795cf) — ElevenLabs · Spain
-- [AI Creative Producer](https://jobs.ashbyhq.com/elevenlabs/3178581d-ea70-4dee-b018-2ce2d2a18bbe) — ElevenLabs · United Kingdom
-- [Research Engineer](https://jobs.ashbyhq.com/elevenlabs/3d650946-5ac2-4729-9ae4-129c43fcd0b5) — ElevenLabs · Poland
-- [Deployment Strategist - Spain](https://jobs.ashbyhq.com/elevenlabs/6848ece5-1ce5-4ab4-9dd6-0704cd0f8ecd) — ElevenLabs · Spain
-- [Forward Deployed Engineer - Software Engineer - Spain](https://jobs.ashbyhq.com/elevenlabs/7664e3c4-2336-4d1a-90cf-91d1268de10d) — ElevenLabs · Spain
-- [Engineering - Internal AI Transformation](https://jobs.ashbyhq.com/elevenlabs/a3097257-a07a-4a7e-b9fe-b8555c1a0fa7) — ElevenLabs · United States
-- [Enterprise Solutions Engineer - Spain](https://jobs.ashbyhq.com/elevenlabs/b081fafb-3659-4bf6-8e87-eb5ccc3ff234) — ElevenLabs · Spain
-- [Research Engineer](https://jobs.ashbyhq.com/cohere/1a5925d0-41bd-4549-9b78-f427a2dda922) — Cohere · Toronto
-- [Machine Learning Intern/Co-op  (Fall, 2026)](https://jobs.ashbyhq.com/cohere/36d1f52f-8270-4652-adf5-5303a0ff341b) — Cohere · Canada
-- [Forward Deployed Engineer, Sovereign AI](https://jobs.ashbyhq.com/cohere/556467eb-3dc8-46e2-b015-277872210997) — Cohere · Ottawa
-- [Counsel, Privacy and AI Regulation (EU)](https://jobs.ashbyhq.com/cohere/d81c28f5-2945-4c49-bc5b-86e345334cfb) — Cohere · Germany
-- [Software Engineer - Applied ML - UK Public Sector](https://jobs.ashbyhq.com/cohere/df93ec57-d51e-4466-93be-4878c5fda4da) — Cohere · London
-- [Member of Engineering (Post-training)](https://jobs.ashbyhq.com/poolside/7662c253-27bf-4a64-a52a-ecd221887993) — Poolside · Remote (EMEA/East Coast)
-- [Member of Engineering (Pre-training / Data Research)](https://jobs.ashbyhq.com/poolside/819757ab-8e03-4c7b-8fed-be7451372cb4) — Poolside · Remote (EMEA/East Coast)
-- [Member of Engineering (Pre-training / Data Engineering)](https://jobs.ashbyhq.com/poolside/ac8683a2-4b78-4d10-a528-fa6524548d90) — Poolside · Remote (EMEA/East Coast)
-- [Member of Engineering (Pre-training / Data Acquisition)](https://jobs.ashbyhq.com/poolside/cf17cfd6-4600-46cc-8011-927fc89e12b9) — Poolside · Remote (EMEA/East Coast)
-- [Member of Engineering (Pre-training / Synthetic Data)](https://jobs.ashbyhq.com/poolside/f99aaa7d-473b-4710-8d2d-5f9893fb5b15) — Poolside · Remote (US)
-- [AI Deployment Engineer](https://jobs.ashbyhq.com/openai/04435c05-7a05-4802-894d-c173327fbac8) — OpenAI · Seoul, South Korea
-- [Research Engineer/Scientist - Human Alignment, Consumer Devices](https://jobs.ashbyhq.com/openai/09253a0e-a2b8-49d1-80bb-6955ba3b08a3) — OpenAI · San Francisco
-- [Training, Process Management Engineer](https://jobs.ashbyhq.com/openai/0fc4742f-21f9-40a3-925e-adeb0a6920c1) — OpenAI · London, UK
-- [Software Engineer, RL Training Infra](https://jobs.ashbyhq.com/openai/13995549-e8cc-498f-9eaa-1869067ac35b) — OpenAI · San Francisco
-- [Research Engineer/Research Scientist - Personal AGI, North Stars](https://jobs.ashbyhq.com/openai/171ebca6-de53-4d6e-a312-30332f353957) — OpenAI · San Francisco
-- [AI Deployment Engineer](https://jobs.ashbyhq.com/openai/17de33c9-cc81-4818-bec9-93f1d308d709) — OpenAI · Madrid, Spain
-- [AI Deployment Engineer - Startups](https://jobs.ashbyhq.com/openai/193d33d8-4993-4220-bc5d-cfd792d7e583) — OpenAI · Paris, France
-- [AI Deployment Engineer, Codex | India](https://jobs.ashbyhq.com/openai/1a4befe6-a438-40b2-863e-d4843fb3f90a) — OpenAI · Delhi, India
-- [Executive Business Partner, OpenAI for Government & Global Affairs](https://jobs.ashbyhq.com/openai/229a4b86-61ba-47f9-8372-1ff6fa8536b0) — OpenAI · Washington, DC
-- [Partner AI Deployment Engineer - AWS](https://jobs.ashbyhq.com/openai/28f1454f-a790-47e4-bf10-ca1834fe500b) — OpenAI · Seoul, South Korea
-- [Software Engineer, Monetization ML Infrastructure](https://jobs.ashbyhq.com/openai/348ac6bf-a5c3-43d1-a14a-5f1a3c8d90fa) — OpenAI · San Francisco
-- [Datacenter Networking Technician, AI Compute Deployment - Stargate](https://jobs.ashbyhq.com/openai/3ca637f8-c0d6-4253-8568-1f31b02adf76) — OpenAI · Remote - US
-- [Research Engineer - Speech & Realtime Models](https://jobs.ashbyhq.com/openai/46cd47bc-d4de-4826-aa2e-8b2e0da3c409) — OpenAI · San Francisco
-- [AI Deployment Engineer - Tokyo](https://jobs.ashbyhq.com/openai/4762783e-61e1-4d36-af1d-8dee3c5f70e2) — OpenAI · Tokyo, Japan
-- [AI Deployment Engineer, Codex | Korea](https://jobs.ashbyhq.com/openai/47aaae94-69e8-464b-a7f6-ffe898ee1731) — OpenAI · Seoul, South Korea
-- [Partner AI Deployment Engineer - AWS](https://jobs.ashbyhq.com/openai/48fdb9b8-af29-4250-ac92-44a0e9d60735) — OpenAI · Sydney, Australia
-- [Recruiter, AI/ML Research EMEA](https://jobs.ashbyhq.com/openai/49111f4e-eac8-438a-aca3-6b8896ae4287) — OpenAI · London, UK
-- [Machine Learning Engineer, Distributed Data Systems - Robotics](https://jobs.ashbyhq.com/openai/4a13c764-18c3-4076-ac87-29e05491be07) — OpenAI · San Francisco
-- [Partner AI Deployment Engineer](https://jobs.ashbyhq.com/openai/552396f4-dc83-43de-9230-6301e5f461bd) — OpenAI · San Francisco
-- [Supply Chain Transformation Architect](https://jobs.ashbyhq.com/openai/5fe29d1d-684f-4fed-88de-eb644fe3485e) — OpenAI · San Francisco
-- [Data Scientist, Safety](https://jobs.ashbyhq.com/openai/666119c9-ff97-4e81-9805-94d7525bd633) — OpenAI · London, UK
-- [AI Deployment Engineer](https://jobs.ashbyhq.com/openai/6bacc51d-6580-4089-93ca-7df3bce4b635) — OpenAI · New York City
-- [AI Emerging Risks Analyst](https://jobs.ashbyhq.com/openai/6d5d982f-d00b-49b8-b023-c596f0096d76) — OpenAI · San Francisco
-- [Training Performance Engineer](https://jobs.ashbyhq.com/openai/6eb386ac-9056-4795-aa79-a27e105faf5c) — OpenAI · San Francisco
-- [Researcher, Training - London ](https://jobs.ashbyhq.com/openai/6fdc9e35-c9d9-49fb-a8f7-80d2d7f03968) — OpenAI · London, UK
-- [AI Research Engineer](https://job-boards.greenhouse.io/graphcore/jobs/8478749002) — Graphcore · Bristol, UK; Cambridge, UK; London, UK
-- [Infrastructure and MLOps Engineer ](https://job-boards.greenhouse.io/graphcore/jobs/8605700002) — Graphcore · Cambridge, UK
-- [Infrastructure and MLOps Engineer ](https://job-boards.greenhouse.io/graphcore/jobs/8420380002) — Graphcore · Bristol, UK
-- [Infrastructure and MLOps Engineer ](https://job-boards.greenhouse.io/graphcore/jobs/8605704002) — Graphcore · London, UK
-- [ML QA Technical Product Owner](https://job-boards.greenhouse.io/graphcore/jobs/8550053002) — Graphcore · Bristol, UK
-- [Research Scientist (Visual Generative AI & World Models)](https://job-boards.greenhouse.io/graphcore/jobs/8559597002) — Graphcore · Bristol, UK; Cambridge, UK; London, UK
-- [Software Engineer - ML Kernels & Runtime ](https://job-boards.greenhouse.io/graphcore/jobs/8491405002) — Graphcore · Bristol, UK
-- [ML Research Engineer, London](https://job-boards.greenhouse.io/isomorphiclabs/jobs/5578430004) — Isomorphic Labs · London
-- [Research Scientist (Applied LLMs), London](https://job-boards.greenhouse.io/isomorphiclabs/jobs/5704870004) — Isomorphic Labs · London
-- [Research Scientist (Machine Learning), London](https://job-boards.greenhouse.io/isomorphiclabs/jobs/5224363004) — Isomorphic Labs · London
-- [Software Engineer (Training Platform)](https://job-boards.greenhouse.io/isomorphiclabs/jobs/5818858004) — Isomorphic Labs · London
-- [Applied AI Engineer, Global Public Sector](https://job-boards.greenhouse.io/scaleai/jobs/4413992005) — Scale AI · Doha, Qatar; London, UK
-- [Machine Learning Engineer, Global Public Sector](https://job-boards.greenhouse.io/scaleai/jobs/4413274005) — Scale AI · Doha, Qatar; London, UK
-- [Machine Learning Fellow - Human Frontier Collective (UK)](https://job-boards.greenhouse.io/scaleai/jobs/4661647005) — Scale AI · United Kingdom
-- [AI Engineer - FDE (Forward Deployed Engineer)](https://databricks.com/company/careers/open-positions/job?gh_jid=8099751002) — Databricks · Remote - India
-- [Solutions Architect, Retail ](https://databricks.com/company/careers/open-positions/job?gh_jid=6049142002) — Databricks · Remote - Ohio
-- [Solutions Architect (Retail/CPG)](https://databricks.com/company/careers/open-positions/job?gh_jid=8452396002) — Databricks · London, United Kingdom
-- [Solutions Architect - Strategic AI Natives](https://databricks.com/company/careers/open-positions/job?gh_jid=8487768002) — Databricks · Remote - California; Remote - Colorado; Remote - Oregon; Remote - Washington
-- [Sr. Delivery Solutions Architect - AI Native](https://databricks.com/company/careers/open-positions/job?gh_jid=8469076002) — Databricks · Remote - California; Remote - Colorado; Remote - Oregon; Remote - Washington
-- [Sr. Solutions Architect - AI Natives Business](https://databricks.com/company/careers/open-positions/job?gh_jid=8541221002) — Databricks · Remote - California; Remote - Oregon; Remote - Washington
-- [Sr. Solutions Engineer - AI Natives Business](https://databricks.com/company/careers/open-positions/job?gh_jid=8563183002) — Databricks · Remote - California; Remote - Colorado; Remote - Oregon; Remote - Washington
-- [Strategic Account Executive - Retail ](https://databricks.com/company/careers/open-positions/job?gh_jid=7994379002) — Databricks · London, United Kingdom
-- [Strategic Core Account Executive - Retail ](https://databricks.com/company/careers/open-positions/job?gh_jid=8458710002) — Databricks · Remote - Ohio
-- [Strategic Genie and AI Sales Specialist](https://databricks.com/company/careers/open-positions/job?gh_jid=8441890002) — Databricks · Remote - New York
-- [AI Deployment Strategist - UK](https://jobs.lever.co/mistral/e59555e3-899d-4e1e-875f-90b825bc1e28) — Mistral AI · London
-- [Research Engineer, Quantum Computing, DeepMind](https://www.adzuna.co.uk/jobs/land/ad/5779214763?se=iPLHgPly8RG03p_b2NRIZw&utm_medium=api&utm_source=bce444a8&v=CF10841D952E9C6004027CDCD9DCF682B6E095A8) — Google · London, UK · £63,318–£63,318
-- [Agentic AI Engineer (life sciences)](https://www.adzuna.co.uk/jobs/details/5779211942?utm_medium=api&utm_source=bce444a8) — Healx · Cambridge, Cambridgeshire · £41,919–£41,919
-- [AI Integration Engineer](https://www.adzuna.co.uk/jobs/land/ad/5778939883?se=iPLHgPly8RG03p_b2NRIZw&utm_medium=api&utm_source=bce444a8&v=855EBF65F34E0B3FEE3FD167295CE6BE81FA1AF4) — Bennett and Game Recruitment LTD · Carluke, South Lanarkshire · £55,000–£55,000
-- [Research Engineer, Quantum Computing, DeepMind](https://www.adzuna.co.uk/jobs/details/5778391782?utm_medium=api&utm_source=bce444a8) — Google · London, UK · £55,394–£55,394
-- [Product Engineer (hybrid/remote)](https://www.adzuna.co.uk/jobs/land/ad/5779301019?se=upxtgfly8RGiVqWJe_bADg&utm_medium=api&utm_source=bce444a8&v=1D30797A1E33883CB6D9D99A3FF4138428539905) — Allstate Northern Ireland · Belfast, Northern Ireland · £65,388–£65,388
-- [Software Developer II](https://www.adzuna.co.uk/jobs/details/5779218806?utm_medium=api&utm_source=bce444a8) — CPI Card Group · West Pottergate, Norwich · £43,807–£43,807
-- [Master Data Management Specialist](https://www.adzuna.co.uk/jobs/details/5779216546?utm_medium=api&utm_source=bce444a8) — Nebius · London, UK · £53,495–£53,495
-- [UI Engineer (1 year Fixed Term Contract)](https://www.adzuna.co.uk/jobs/details/5779216545?utm_medium=api&utm_source=bce444a8) — NICE · London, UK · £50,678–£50,678
-- [IT Data Infrastructure Architect - VP](https://www.adzuna.co.uk/jobs/details/5779215772?utm_medium=api&utm_source=bce444a8) — Morgan Stanley · Glasgow, Scotland · £83,055–£83,055
-- [House Parent](https://www.adzuna.co.uk/jobs/land/ad/5779215636?se=upxtgfly8RGiVqWJe_bADg&utm_medium=api&utm_source=bce444a8&v=DABF2B90BAEABFE89D843C9E74B768B5AE3AFA93) — Summer Boarding Courses · Upper Sydenham, South East London · £34,393–£34,393
-- [Sr. Applied AI Solutions Architect, Amazon Connect](https://www.adzuna.co.uk/jobs/details/5779214277?utm_medium=api&utm_source=bce444a8) — Amazon · London, UK · £59,841–£59,841
-- [Technical Specialist, Claude Code](https://www.adzuna.co.uk/jobs/details/5779213642?utm_medium=api&utm_source=bce444a8) — Anthropic · London, UK · £180,000–£225,000
-- [Salesforce Technical Business Analyst](https://www.adzuna.co.uk/jobs/details/5779213397?utm_medium=api&utm_source=bce444a8) — Nebius · London, UK · £88,401–£88,401
-- [Associate Engineer - Finance & People Technology](https://www.adzuna.co.uk/jobs/details/5779213395?utm_medium=api&utm_source=bce444a8) — Man Group · London, UK · £54,786–£54,786
-- [Software Engineer (E2)](https://www.adzuna.co.uk/jobs/details/5779213392?utm_medium=api&utm_source=bce444a8) — Wellington Computer Systems · Belfast, Northern Ireland · £39,227–£39,227
-- [Analyst - Nectar360 Supplier Analytics](https://www.adzuna.co.uk/jobs/details/5779514881?utm_medium=api&utm_source=bce444a8) — Sainsbury's · London, UK · £57,066–£57,066
-- [Analyst - Pricing & Promotions](https://www.adzuna.co.uk/jobs/details/5779514855?utm_medium=api&utm_source=bce444a8) — Sainsbury's · London, UK · £53,799–£53,799
-- [Portfolio Officer](https://www.adzuna.co.uk/jobs/details/5779514838?utm_medium=api&utm_source=bce444a8) — UK Research and Innovation · Swindon, Wiltshire · £33,325–£33,325
-- [Analyst - Commercial Analytics - SQL](https://www.adzuna.co.uk/jobs/details/5779514857?utm_medium=api&utm_source=bce444a8) — Sainsbury's · London, UK · £59,344–£59,344
-- [Maths Teacher – Fantastic Ethos School – Manchester](https://www.adzuna.co.uk/jobs/details/5779409575?utm_medium=api&utm_source=bce444a8) — Marchant Recruitment · Manchester, Greater Manchester · £42,047–£42,047
-- [Software Engineer, Back-End](https://www.adzuna.co.uk/jobs/details/5779216662?utm_medium=api&utm_source=bce444a8) — Symphony Communication Services · Belfast, Northern Ireland · £45,000–£60,000
-- [Insights Sales Executive](https://www.adzuna.co.uk/jobs/details/5779216304?utm_medium=api&utm_source=bce444a8) — dunnhumby · London, UK · £50,978–£50,978
-- [Marketing & Commercial Intern, 6 months](https://www.adzuna.co.uk/jobs/details/5779216294?utm_medium=api&utm_source=bce444a8) — Ekimetrics · London, UK · £34,787–£34,787
-- [Scientist](https://www.adzuna.co.uk/jobs/details/5779215503?utm_medium=api&utm_source=bce444a8) — Cyprotex · UK · £37,026–£37,026
-- [Global Pricing Actuary - Cyber](https://www.adzuna.co.uk/jobs/details/5779215091?utm_medium=api&utm_source=bce444a8) — QBE · London, UK · £71,463–£71,463
-- [Junior Project Controls Data Analyst](https://www.adzuna.co.uk/jobs/land/ad/5779214779?se=nDcTgvly8RGiVqWJe_bADg&utm_medium=api&utm_source=bce444a8&v=02EEB9989EC95110FBABE2C3F11D36B5F8265A67) — AtkinsRéalis · London, UK · £33,317–£33,317
-- [Software Engineer - Cloud Platform (Networks)](https://www.adzuna.co.uk/jobs/details/5779214528?utm_medium=api&utm_source=bce444a8) — Neo4j · London, UK · £55,062–£55,062
-- [Dex - Founding Data Scientist](https://www.adzuna.co.uk/jobs/details/5779214096?utm_medium=api&utm_source=bce444a8) — Dex · London, UK · £62,683–£62,683
-- [Data Scientist](https://www.adzuna.co.uk/jobs/details/5779213835?utm_medium=api&utm_source=bce444a8) — Arenko · Fleet Street, Central London · £56,625–£56,625
-- [Buyer](https://www.adzuna.co.uk/jobs/details/5779213597?utm_medium=api&utm_source=bce444a8) — KLA · UK · £41,306–£41,306
-- [Quantitative Researcher - Commodities](https://www.adzuna.co.uk/jobs/details/5779213536?utm_medium=api&utm_source=bce444a8) — DRW · London, UK · £59,133–£59,133
-- [Through Life Data Exploitation Engineer](https://www.adzuna.co.uk/jobs/details/5779213520?utm_medium=api&utm_source=bce444a8) — BAE Systems · Brough, East Riding Of Yorkshire · £30,187–£30,187
-- [Forward Deployed Engineer - Software](https://www.adzuna.co.uk/jobs/details/5779213475?utm_medium=api&utm_source=bce444a8) — CHAOS Industries · London, UK · £51,411–£51,411
-- [Loan Syndicate Sales & Trading Analyst](https://www.adzuna.co.uk/jobs/details/5779213356?utm_medium=api&utm_source=bce444a8) — BBVA · Canary Wharf, East London · £69,579–£69,579
-- [Sr. AI Threat Researcher](https://www.adzuna.co.uk/jobs/details/5779213341?utm_medium=api&utm_source=bce444a8) — Sophos · UK · £52,617–£52,617
-- [Scientist, Clinical Biomarker Laboratory, Immuno-Assays - Cell Based](https://www.adzuna.co.uk/jobs/details/5779213304?utm_medium=api&utm_source=bce444a8) — ModernaTX · UK · £41,508–£41,508
-- [Junior/Graduate Data Scientist](https://www.adzuna.co.uk/jobs/details/5779211481?utm_medium=api&utm_source=bce444a8) — Friend MTS · Deritend, Birmingham · £49,511–£49,511
-- [Applied Scientist II, Alexa for Shopping Science UK](https://www.adzuna.co.uk/jobs/details/5779216383?utm_medium=api&utm_source=bce444a8) — Amazon · London, UK · £46,126–£46,126
-- [Higher Learning Teaching Assistant](https://www.adzuna.co.uk/jobs/details/5779213914?utm_medium=api&utm_source=bce444a8) — Moorhill Primary School · Cannock, Staffordshire · £30,024–£33,700
-- [Software Engineer](https://www.adzuna.co.uk/jobs/details/5778920798?utm_medium=api&utm_source=bce444a8) — Bytronic Vision Automation · Blackwell, Bromsgrove · £35,000–£35,000
-- [FE Teacher](https://www.adzuna.co.uk/jobs/details/5778411946?utm_medium=api&utm_source=bce444a8) — Salutem · Keswick, Norwich · £31,934–£31,934
-- [Vice President, Data Science](https://www.adzuna.co.uk/jobs/details/5778394661?utm_medium=api&utm_source=bce444a8) — S&P Global · London, UK · £97,970–£97,970
-- [Commis Chef](https://www.adzuna.co.uk/jobs/details/5778390113?utm_medium=api&utm_source=bce444a8) — BaxterStorey UK · Bordesley, Birmingham · £27,664–£27,664
-- [Hospitality Assistant](https://www.adzuna.co.uk/jobs/details/5778390047?utm_medium=api&utm_source=bce444a8) — BaxterStorey UK · Bordesley, Birmingham · £27,664–£27,664
-- [Chef De Partie - Mon to Fri - Gogarburn](https://www.adzuna.co.uk/jobs/details/5778389780?utm_medium=api&utm_source=bce444a8) — BaxterStorey UK · Hermiston, Currie · £0–£30,000
-- [Night Chef De Partie](https://www.adzuna.co.uk/jobs/details/5778389848?utm_medium=api&utm_source=bce444a8) — BaxterStorey UK · Silverstone, Towcester · £41,600–£41,600
-- [Sous Chef - Mon to Fri - Glasgow & Edinburgh](https://www.adzuna.co.uk/jobs/details/5778389894?utm_medium=api&utm_source=bce444a8) — BaxterStorey UK · Edinburgh, Scotland · £0–£36,000
-- [Demi Chef de Partie - Fine Dining - Mon to Fri](https://www.adzuna.co.uk/jobs/details/5778389845?utm_medium=api&utm_source=bce444a8) — BaxterStorey UK · Broadgate, Central London · £0–£31,000
-- [Hospitality Chef De Partie - Mon to Fri - Farrington](https://www.adzuna.co.uk/jobs/details/5778389821?utm_medium=api&utm_source=bce444a8) — BaxterStorey UK · London, UK · £0–£33,000
-- [Chef De Partie](https://www.adzuna.co.uk/jobs/details/5778389788?utm_medium=api&utm_source=bce444a8) — BaxterStorey UK · Towcester, Northamptonshire · £0–£29,000
-- [Demi Chef De Partie - Mon to Fri - Farringdon](https://www.adzuna.co.uk/jobs/details/5778389681?utm_medium=api&utm_source=bce444a8) — BaxterStorey UK · London, UK · £0–£31,000
-- [AI Security Engineer](https://www.adzuna.co.uk/jobs/details/5777968755?utm_medium=api&utm_source=bce444a8) — Infinity Quest UK · UK · £109,200–£109,200
-- [Product Engineer](https://www.adzuna.co.uk/jobs/details/5777967099?utm_medium=api&utm_source=bce444a8) — Ellison Institute of Technology · Oxford, Oxfordshire · £60,414–£60,414
-- [Machine Learning Engineer](https://www.adzuna.co.uk/jobs/details/5777885544?utm_medium=api&utm_source=bce444a8) — Vermelo RPO · Manchester, Greater Manchester · £45,791–£45,791
-- [Data Scientist / AI Engineer](https://www.adzuna.co.uk/jobs/details/5777483601?utm_medium=api&utm_source=bce444a8) — Searchability  Ltd · Cheltenham, Gloucestershire · £45,000–£95,000
-- [Photonic Design Engineer](https://www.adzuna.co.uk/jobs/details/5777379156?utm_medium=api&utm_source=bce444a8) — Microtech Global Ltd · Eastern England, UK · £56,232–£56,232
-- [Psychology Teacher | Independent Day School | Dudley](https://www.adzuna.co.uk/jobs/details/5778139594?utm_medium=api&utm_source=bce444a8) — Marchant Recruitment · Dudley, West Midlands · £58,995–£58,995
-- [Data Scientist](https://www.adzuna.co.uk/jobs/details/5777967101?utm_medium=api&utm_source=bce444a8) — Oxford Dynamics · Oxford, Oxfordshire · £95,699–£95,699
-- [Proposal Writer](https://www.adzuna.co.uk/jobs/details/5777922297?utm_medium=api&utm_source=bce444a8) — Braze · London, UK · £78,603–£78,603
-- [Teacher of Mathematics](https://www.adzuna.co.uk/jobs/land/ad/5777922049?se=mnt1g_ly8RG03p_b2NRIZw&utm_medium=api&utm_source=bce444a8&v=D631215457FE32BFC87DB50FCF20372C9A223AF6) — The Blue Coat School Basingstoke · Basingstoke, Hampshire · £41,622–£41,622
-- [Power Platform Consultant](https://www.adzuna.co.uk/jobs/land/ad/5777921695?se=mnt1g_ly8RG03p_b2NRIZw&utm_medium=api&utm_source=bce444a8&v=53931122798A78723FB1B41446A4D841B767286E) — ANS Group Limited · UK · £53,607–£53,607
-- [Account Executive, SMB](https://www.adzuna.co.uk/jobs/details/5777921377?utm_medium=api&utm_source=bce444a8) — Braze · London, UK · £66,562–£66,562
-- [Object Detection and Tracking Engineer](https://www.adzuna.co.uk/jobs/details/5777920247?utm_medium=api&utm_source=bce444a8) — Shield AI · London, UK · £81,082–£81,082
-- [Data Engineer](https://www.adzuna.co.uk/jobs/land/ad/5777747252?se=mnt1g_ly8RG03p_b2NRIZw&utm_medium=api&utm_source=bce444a8&v=BDF943B45F7DD611BCCE1102D204B7128CE97A9A) — Gold Group · The City, Central London · £55,000–£60,000
-- [Research Engineer](https://www.adzuna.co.uk/jobs/details/5777623223?utm_medium=api&utm_source=bce444a8) — Ellison Institute of Technology · Oxford, Oxfordshire · £53,140–£53,140
-- [FE Teacher](https://www.adzuna.co.uk/jobs/details/5777578918?utm_medium=api&utm_source=bce444a8) — Salutem Care And Education · UK · £31,934+
-- [Vice President, Data Science](https://www.adzuna.co.uk/jobs/details/5777520669?utm_medium=api&utm_source=bce444a8) — S&P Global · London, UK · £98,058–£98,058
-- [Embedded Software Engineer (UAVs)](https://www.adzuna.co.uk/jobs/details/5777492380?utm_medium=api&utm_source=bce444a8) — Archangel Aerospace Group · North Hinksey Village, Oxford · £53,000–£79,000
-- [Kitchen Porter](https://www.adzuna.co.uk/jobs/details/5777004294?utm_medium=api&utm_source=bce444a8) — BaxterStorey UK · Leith, Edinburgh · £27,955–£27,955
-- [General Assistant](https://www.adzuna.co.uk/jobs/details/5777004329?utm_medium=api&utm_source=bce444a8) — BaxterStorey UK · County Stirling, Scotland · £28,288–£28,288
-- [AI Engineer](https://www.adzuna.co.uk/jobs/details/5776636519?utm_medium=api&utm_source=bce444a8) — RedCloud · Barbican, Central London · £51,068–£51,068
-- [Computer Vision Engineer - Graduate Considered](https://www.adzuna.co.uk/jobs/details/5776613328?utm_medium=api&utm_source=bce444a8) — RedTech Recruitment Ltd · Saffron Walden, Essex · £60,000–£60,000
-- [Software Engineer - AI Agents](https://www.adzuna.co.uk/jobs/details/5776440271?utm_medium=api&utm_source=bce444a8) — Neo4j · London, UK · £45,099–£45,099
-- [Graduate AI Engineer](https://www.adzuna.co.uk/jobs/details/5776438654?utm_medium=api&utm_source=bce444a8) — Allica Bank · Milton Keynes, Buckinghamshire · £30,931–£30,931
-- [CNC Engineer - Setter/Operator Position](https://www.adzuna.co.uk/jobs/land/ad/5776431877?se=iPLHgPly8RG03p_b2NRIZw&utm_medium=api&utm_source=bce444a8&v=5BFC82CEEEBADBCF1534E6FD7B69666A6DAA8ED6) — Noble Recruiting · Pitsea, Basildon · £30,000–£35,000
-- [Computer Vision Engineer - Graduate Considered](https://www.adzuna.co.uk/jobs/land/ad/5776271622?se=iPLHgPly8RG03p_b2NRIZw&utm_medium=api&utm_source=bce444a8&v=65B6EF33FF6C9BDA6EB6CDA35A986E50B3584886) — RedTech Recruitment Ltd · Audley End, Saffron Walden · £60,000–£60,000
-- [Founding AI Engineer](https://www.adzuna.co.uk/jobs/land/ad/5776259661?se=iPLHgPly8RG03p_b2NRIZw&utm_medium=api&utm_source=bce444a8&v=B1597815BF700D29EC2EC0479AD05C788D6A16A7) — Adria Solutions · Manchester, Greater Manchester · £80,000–£110,000
-- [CNC Engineer - Setter/Operator Position](https://www.adzuna.co.uk/jobs/land/ad/5776259636?se=iPLHgPly8RG03p_b2NRIZw&utm_medium=api&utm_source=bce444a8&v=E58460EEB3EE0E850B68385ED414EFC0DFBCF52B) — Noble Recruiting · Southend-On-Sea, Essex · £30,000–£35,000
-- [Data Scientist / AI Engineer](https://www.adzuna.co.uk/jobs/land/ad/5776259624?se=iPLHgPly8RG03p_b2NRIZw&utm_medium=api&utm_source=bce444a8&v=751CFA9D1FB52EDEED52516948116ADE8E888331) — Searchability NS&D · Cheltenham, Gloucestershire · £45,000–£95,000
-- [Photonic Design Engineer](https://www.adzuna.co.uk/jobs/details/5776241015?utm_medium=api&utm_source=bce444a8) — Microtech Global Ltd · Suffolk, Eastern England · £54,969–£54,969
-- [AI Integration Engineer](https://www.adzuna.co.uk/jobs/details/5776023136?utm_medium=api&utm_source=bce444a8) — Bennett and Game Recruitment LTD · Kingsham, Chichester · £40,000–£55,000
-- [Python Developer](https://www.adzuna.co.uk/jobs/details/5776019670?utm_medium=api&utm_source=bce444a8) — Information Tech Consultants · Chalk Farm, North West London · £35,000–£45,000
-- [2xData Scientist (Supply Chain & Predictive Maintenance)](https://www.adzuna.co.uk/jobs/land/ad/5773684423?se=YKHQgvly8RGe4ZwL0wNS6w&utm_medium=api&utm_source=bce444a8&v=693003FDD1E53C5F1A045D99E0B31AC72F8E300B) — Hays Specialist Recruitment Limited · UK · £60,497–£60,497
-- [Data Science Trainee](https://www.adzuna.co.uk/jobs/land/ad/5772917921?se=YKHQgvly8RGe4ZwL0wNS6w&utm_medium=api&utm_source=bce444a8&v=145A960ABE06EC156CCF6643F59C45EF3DE33C59) — IT Career Switch · Birmingham, West Midlands · £25,000–£45,000
-- [Data Science Trainee](https://www.adzuna.co.uk/jobs/land/ad/5772713150?se=YKHQgvly8RGe4ZwL0wNS6w&utm_medium=api&utm_source=bce444a8&v=A4B66854E882A22B04C4500872F6CB097B2037B6) — IT Career Switch · London, UK · £25,000–£45,000
-- [Data Science Trainee](https://www.adzuna.co.uk/jobs/land/ad/5772655893?se=YKHQgvly8RGe4ZwL0wNS6w&utm_medium=api&utm_source=bce444a8&v=B7B49D50D7D6C32DCE953DDF8157F3D1AED0E4F9) — IT Career Switch · Crawley, West Sussex · £25,000–£45,000
-- [Data Science Trainee](https://www.adzuna.co.uk/jobs/land/ad/5772655850?se=YKHQgvly8RGe4ZwL0wNS6w&utm_medium=api&utm_source=bce444a8&v=8437A5C5F694A3CCF73CF0E0E9C9D7F65E9D8DA7) — IT Career Switch · Warrington, Cheshire · £25,000–£45,000
-- [Data Science Trainee](https://www.adzuna.co.uk/jobs/land/ad/5772655815?se=YKHQgvly8RGe4ZwL0wNS6w&utm_medium=api&utm_source=bce444a8&v=B04A0067C22DB873AD5A89040D9B4A3F042E9456) — IT Career Switch · Swansea, Wales · £25,000–£45,000
-- [Data Science Trainee](https://www.adzuna.co.uk/jobs/land/ad/5772655791?se=YKHQgvly8RGe4ZwL0wNS6w&utm_medium=api&utm_source=bce444a8&v=A462E4A32E4AD8A7B326C01F6571631D758A65DD) — IT Career Switch · Stevenage, Hertfordshire · £25,000–£45,000
-- [Data Science Trainee](https://www.adzuna.co.uk/jobs/land/ad/5772655768?se=YKHQgvly8RGe4ZwL0wNS6w&utm_medium=api&utm_source=bce444a8&v=246B0AD417B4F96692C36EB2C3B16C6488C0EF9C) — IT Career Switch · Watford, Hertfordshire · £25,000–£45,000
-- [Data Science Trainee](https://www.adzuna.co.uk/jobs/land/ad/5772655760?se=YKHQgvly8RGe4ZwL0wNS6w&utm_medium=api&utm_source=bce444a8&v=FF5973FA9683B912A12D33B72009787FC557C0BD) — IT Career Switch · York, North Yorkshire · £25,000–£45,000
-- [Data Science Trainee](https://www.adzuna.co.uk/jobs/land/ad/5772655759?se=YKHQgvly8RGe4ZwL0wNS6w&utm_medium=api&utm_source=bce444a8&v=2DE96897ED79A1159C04C33DD367F881B147C0B9) — IT Career Switch · Glasgow City Centre, Glasgow · £25,000–£45,000
-- [Data Science Trainee](https://www.adzuna.co.uk/jobs/land/ad/5772655752?se=YKHQgvly8RGe4ZwL0wNS6w&utm_medium=api&utm_source=bce444a8&v=91102C01BBA14C32F249CFA298C2AC1FD05E5995) — IT Career Switch · Enfield, London · £25,000–£45,000
-- [Data Science Trainee](https://www.adzuna.co.uk/jobs/land/ad/5772655702?se=YKHQgvly8RGe4ZwL0wNS6w&utm_medium=api&utm_source=bce444a8&v=08961FFD8B2919A40C8A7FBD8E986EE023347317) — IT Career Switch · Grimsby, North East Lincolnshire · £25,000–£45,000
-- [Data Science Trainee](https://www.adzuna.co.uk/jobs/land/ad/5772655653?se=YKHQgvly8RGe4ZwL0wNS6w&utm_medium=api&utm_source=bce444a8&v=47CDCA2DDF65B983AA0EE59FA32FE6ABC6B6AEB6) — IT Career Switch · Hull, East Riding Of Yorkshire · £25,000–£45,000
-- [Data Science Trainee](https://www.adzuna.co.uk/jobs/land/ad/5772655615?se=YKHQgvly8RGe4ZwL0wNS6w&utm_medium=api&utm_source=bce444a8&v=D72D84165ACFBCB66F9BD98A91E5021E1C1F9CA0) — IT Career Switch · Croydon, London · £25,000–£45,000
-- [Data Science Trainee](https://www.adzuna.co.uk/jobs/land/ad/5772655613?se=YKHQgvly8RGe4ZwL0wNS6w&utm_medium=api&utm_source=bce444a8&v=3C4066CC17119506C5E1EDBEA5999748A134C2BB) — IT Career Switch · Derby, Derbyshire · £25,000–£45,000
-- [Data Science Trainee](https://www.adzuna.co.uk/jobs/land/ad/5772655609?se=YKHQgvly8RGe4ZwL0wNS6w&utm_medium=api&utm_source=bce444a8&v=8A10717B4F93517178CF1A33E55CDAE5D2C1DA26) — IT Career Switch · Telford, Shropshire · £25,000–£45,000
-- [Data Science Trainee](https://www.adzuna.co.uk/jobs/land/ad/5772655554?se=YKHQgvly8RGe4ZwL0wNS6w&utm_medium=api&utm_source=bce444a8&v=1E67C0A49E1A16F65BF8CBD668A62D3FC4C10B2A) — IT Career Switch · Marton-In-Cleveland, Middlesbrough · £25,000–£45,000
-- [Data Science Trainee](https://www.adzuna.co.uk/jobs/land/ad/5772655549?se=YKHQgvly8RGe4ZwL0wNS6w&utm_medium=api&utm_source=bce444a8&v=287EEF99CAA598278888AC866766790DF00CF449) — IT Career Switch · Barnet, Hertfordshire · £25,000–£45,000
-- [Data Science Trainee](https://www.adzuna.co.uk/jobs/land/ad/5772655543?se=YKHQgvly8RGe4ZwL0wNS6w&utm_medium=api&utm_source=bce444a8&v=4CC549B21B4FB6EEA130D365C5E0EB5A82E7792D) — IT Career Switch · Northampton, Northamptonshire · £25,000–£45,000
-- [Data Science Trainee](https://www.adzuna.co.uk/jobs/land/ad/5772655500?se=YKHQgvly8RGe4ZwL0wNS6w&utm_medium=api&utm_source=bce444a8&v=5C2E4F2C93A5DD51FB3FF4EC6DB52590139F68C4) — IT Career Switch · Preston, Lancashire · £25,000–£45,000
-- [Data Science Trainee](https://www.adzuna.co.uk/jobs/land/ad/5772655493?se=YKHQgvly8RGe4ZwL0wNS6w&utm_medium=api&utm_source=bce444a8&v=C2F30CFF6E4230E8DC577D8744A1B97B257D45F2) — IT Career Switch · Lincoln, Lincolnshire · £25,000–£45,000
-- [Data Science Trainee](https://www.adzuna.co.uk/jobs/land/ad/5772655485?se=YKHQgvly8RGe4ZwL0wNS6w&utm_medium=api&utm_source=bce444a8&v=8AE1E71648CC82E158F01EA320BD1892909CF687) — IT Career Switch · Salford, Greater Manchester · £25,000–£45,000
-- [Data Science Trainee](https://www.adzuna.co.uk/jobs/land/ad/5772655482?se=YKHQgvly8RGe4ZwL0wNS6w&utm_medium=api&utm_source=bce444a8&v=2A4695AC2108CF8653C46323940AAF40D9AF0B53) — IT Career Switch · Coventry, West Midlands · £25,000–£45,000
-- [Data Science Trainee](https://www.adzuna.co.uk/jobs/land/ad/5772655475?se=YKHQgvly8RGe4ZwL0wNS6w&utm_medium=api&utm_source=bce444a8&v=56C2A53EA9BB0B99B1D7531E25769DA6F78D46EB) — IT Career Switch · Huddersfield, West Yorkshire · £25,000–£45,000
-- [Data Science Trainee](https://www.adzuna.co.uk/jobs/land/ad/5772655470?se=YKHQgvly8RGe4ZwL0wNS6w&utm_medium=api&utm_source=bce444a8&v=DE9B93345278AE7F6381205DD790BAEF85CC25CB) — IT Career Switch · Swindon, Wiltshire · £25,000–£45,000
-- [Data Science Trainee](https://www.adzuna.co.uk/jobs/land/ad/5772655302?se=YKHQgvly8RGe4ZwL0wNS6w&utm_medium=api&utm_source=bce444a8&v=2D69893BACE63C22E05C75ABA7DF4E51E80E1AA9) — IT Career Switch · Ilford, Essex · £25,000–£45,000
-- [Data Science Trainee](https://www.adzuna.co.uk/jobs/land/ad/5772655285?se=YKHQgvly8RGe4ZwL0wNS6w&utm_medium=api&utm_source=bce444a8&v=9B106B73CB91059054B8C4057B726C70A06F224F) — IT Career Switch · Brighton, East Sussex · £25,000–£45,000
-- [Data Science Trainee](https://www.adzuna.co.uk/jobs/land/ad/5772655253?se=YKHQgvly8RGe4ZwL0wNS6w&utm_medium=api&utm_source=bce444a8&v=78109A25169AF6A321776977A33404E9ADF3BD6D) — IT Career Switch · Newport, Wales · £25,000–£45,000
-- [Data Science Trainee](https://www.adzuna.co.uk/jobs/land/ad/5772655251?se=YKHQgvly8RGe4ZwL0wNS6w&utm_medium=api&utm_source=bce444a8&v=35E935552AA4DA43EAC81674773832C7941EE5EE) — IT Career Switch · Leicester, Leicestershire · £25,000–£45,000
-- [Data Science Trainee](https://www.adzuna.co.uk/jobs/land/ad/5772655246?se=YKHQgvly8RGe4ZwL0wNS6w&utm_medium=api&utm_source=bce444a8&v=334E3CD006DD204ECC90A3F0619CA87C5BBBACB9) — IT Career Switch · Bath, Bath & N E Somerset · £25,000–£45,000
-- [Data Science Trainee](https://www.adzuna.co.uk/jobs/land/ad/5772655222?se=YKHQgvly8RGe4ZwL0wNS6w&utm_medium=api&utm_source=bce444a8&v=46E9572DC33BC947298C9169F523A80EF46B8294) — IT Career Switch · Chelmsford, Essex · £25,000–£45,000
-- [Data Science Trainee](https://www.adzuna.co.uk/jobs/land/ad/5772655212?se=YKHQgvly8RGe4ZwL0wNS6w&utm_medium=api&utm_source=bce444a8&v=32EEDE66302BDE96C1206256C5E3DB856E80CF40) — IT Career Switch · Cardiff County, Wales · £25,000–£45,000
-- [Data Science Trainee](https://www.adzuna.co.uk/jobs/land/ad/5772655195?se=YKHQgvly8RGe4ZwL0wNS6w&utm_medium=api&utm_source=bce444a8&v=2862BC5B03E34A4FF0C9DAD8EA5CA03184251343) — IT Career Switch · Manchester, Greater Manchester · £25,000–£45,000
-- [Data Science Trainee](https://www.adzuna.co.uk/jobs/land/ad/5772654962?se=YKHQgvly8RGe4ZwL0wNS6w&utm_medium=api&utm_source=bce444a8&v=BA9A2155E3F3C31EB3C01C24FD486673C57D7A5E) — IT Career Switch · Maidstone, Kent · £25,000–£45,000
-- [Data Science Trainee](https://www.adzuna.co.uk/jobs/land/ad/5772654764?se=YKHQgvly8RGe4ZwL0wNS6w&utm_medium=api&utm_source=bce444a8&v=421275040F21F724AA13DFC8BC781B2247E21853) — IT Career Switch · Woking, Surrey · £25,000–£45,000
-- [Data Science Trainee](https://www.adzuna.co.uk/jobs/land/ad/5772654739?se=YKHQgvly8RGe4ZwL0wNS6w&utm_medium=api&utm_source=bce444a8&v=38460CCF16B569D5996F57544136AC221BEFF98A) — IT Career Switch · Bolton Le Sands, Carnforth · £25,000–£45,000
-- [Data Science Trainee](https://www.adzuna.co.uk/jobs/land/ad/5772654618?se=YKHQgvly8RGe4ZwL0wNS6w&utm_medium=api&utm_source=bce444a8&v=D9E2CBA845A0D314FB56DD21341D49140F66663F) — IT Career Switch · Liverpool, Merseyside · £25,000–£45,000
-- [Data Science Trainee](https://www.adzuna.co.uk/jobs/land/ad/5772654619?se=YKHQgvly8RGe4ZwL0wNS6w&utm_medium=api&utm_source=bce444a8&v=B0A61F2C41C038CF77FB1FD3EB3CAEB0BFEE3DE1) — IT Career Switch · West Bromwich, West Midlands · £25,000–£45,000
-- [Data Science Trainee](https://www.adzuna.co.uk/jobs/land/ad/5772654599?se=YKHQgvly8RGe4ZwL0wNS6w&utm_medium=api&utm_source=bce444a8&v=264A09CE2703F1AE557237CC6712A9D60E867E2E) — IT Career Switch · Southampton, Hampshire · £25,000–£45,000
-- [Data Science Trainee](https://www.adzuna.co.uk/jobs/land/ad/5772654570?se=YKHQgvly8RGe4ZwL0wNS6w&utm_medium=api&utm_source=bce444a8&v=9D01D7FA29D2C3E2946DEB6AB1CAC9CE04DFC65B) — IT Career Switch · Ipswich, Suffolk · £25,000–£45,000
-- [Data Science Trainee](https://www.adzuna.co.uk/jobs/land/ad/5772654562?se=YKHQgvly8RGe4ZwL0wNS6w&utm_medium=api&utm_source=bce444a8&v=B3CD2F28E20906633A12446BAD0FA7227574C77C) — IT Career Switch · Blackburn, Lancashire · £25,000–£45,000
-- [Data Science Trainee](https://www.adzuna.co.uk/jobs/land/ad/5772648715?se=YKHQgvly8RGe4ZwL0wNS6w&utm_medium=api&utm_source=bce444a8&v=C9AB02647F51ED7C28E86FE81BA76ED76ED29F4E) — IT Career Switch · Worthing, West Sussex · £25,000–£45,000
-- [Data Science Trainee](https://www.adzuna.co.uk/jobs/land/ad/5772648626?se=YKHQgvly8RGe4ZwL0wNS6w&utm_medium=api&utm_source=bce444a8&v=72C4DF374B592F2E83E0FA4FD074F2AB02ABFE66) — IT Career Switch · Sutton Coldfield, West Midlands · £25,000–£45,000
